@@ -1,0 +1,1001 @@
+data_venda;canal_venda;regiao;categoria_produto;quantidade;preco_unitario;valor_total;custo_total;campanha;satisfacao_cliente
+2025-04-13;App;Norte;Eletrodomésticos;16;1318,49;21095,84;11291,56;Natal;6,1
+2025-12-15;App;Sudeste;Beleza;19;561,28;10664,32;6138,38;Aniversário da Loja;8,1
+2025-09-28;Loja Física;Sudeste;Moda;14;2473,79;34633,06;26883,11;Black Friday;8,0
+2025-04-17;E-commerce;Norte;Alimentos;16;1444,6;23113,6;15589,58;Dia das Mães;8,3
+2025-03-13;E-commerce;Sudeste;Tecnologia;15;361,96;5429,4;3583,64;Nenhuma;5,6
+2025-07-08;E-commerce;Nordeste;Tecnologia;4;1728,13;6912,52;4693,03;Dia das Mães;5,9
+2025-01-21;Loja Física;Nordeste;Moda;7;2246,4;15724,8;9589,12;Black Friday;4,8
+2025-04-13;App;Sudeste;Beleza;16;1868,05;29888,8;22181,44;Natal;7,9
+2025-05-02;E-commerce;Centro-Oeste;Tecnologia;8;209,57;1676,56;1101,48;Nenhuma;4,2
+2025-08-03;E-commerce;Norte;Moda;17;2241,79;38110,43;20390,01;Nenhuma;7,6
+2025-11-27;Loja Física;Nordeste;Eletrodomésticos;16;1988,94;31823,04;17143,69;Natal;9,2
+2025-03-29;E-commerce;Centro-Oeste;Beleza;10;412,59;4125,9;2727,46;Dia das Mães;9,3
+2025-04-10;Loja Física;Sudeste;Alimentos;10;148,43;1484,3;1159,2;Aniversário da Loja;6,7
+2025-12-26;App;Centro-Oeste;Tecnologia;2;1402,13;2804,26;1661,54;Dia das Mães;6,8
+2025-06-01;Loja Física;Sul;Moda;9;406,97;3662,73;2786,83;Black Friday;4,5
+2025-05-11;Loja Física;Nordeste;Eletrodomésticos;17;2089,79;35526,43;25906,89;Aniversário da Loja;8,0
+2025-05-30;Loja Física;Sudeste;Alimentos;11;908,67;9995,37;5740,78;Dia das Mães;8,9
+2025-11-05;Loja Física;Norte;Moda;10;2283,97;22839,7;11668,85;Natal;5,5
+2025-09-15;App;Sudeste;Moda;17;1422,91;24189,47;12833,82;Black Friday;6,5
+2025-12-10;App;Norte;Alimentos;4;473,03;1892,12;1359,58;Black Friday;9,0
+2025-10-21;E-commerce;Sudeste;Eletrodomésticos;16;366,21;5859,36;3280,66;Black Friday;9,3
+2025-07-11;App;Centro-Oeste;Eletrodomésticos;15;1449,65;21744,75;13294,33;Aniversário da Loja;5,5
+2025-10-04;App;Centro-Oeste;Beleza;5;1909,47;9547,35;6210,64;Nenhuma;7,3
+2025-06-10;E-commerce;Centro-Oeste;Tecnologia;6;1958,13;11748,78;8431,4;Aniversário da Loja;5,2
+2025-11-10;App;Sul;Alimentos;17;703,88;11965,96;6389,46;Dia das Mães;4,6
+2025-01-22;Loja Física;Norte;Alimentos;1;526,53;526,53;327,45;Nenhuma;9,5
+2025-09-10;Loja Física;Centro-Oeste;Alimentos;19;61,56;1169,64;755,03;Dia das Mães;8,9
+2025-08-24;E-commerce;Sul;Eletrodomésticos;4;1704,41;6817,64;4514,97;Nenhuma;8,6
+2025-12-11;E-commerce;Norte;Tecnologia;17;209,89;3568,13;2660,07;Aniversário da Loja;4,3
+2025-02-18;E-commerce;Sudeste;Beleza;9;1063,49;9571,41;5278,67;Black Friday;9,1
+2025-02-28;Loja Física;Sul;Moda;2;1512,17;3024,34;2245,12;Natal;6,6
+2025-06-19;App;Nordeste;Moda;8;2344,03;18752,24;13274,03;Black Friday;6,1
+2025-07-07;Loja Física;Sul;Alimentos;15;793,27;11899,05;7933,83;Aniversário da Loja;7,3
+2025-09-28;E-commerce;Sul;Tecnologia;7;639,43;4476,01;3177,33;Nenhuma;4,5
+2025-07-09;App;Norte;Eletrodomésticos;6;1642,32;9853,92;6144,96;Black Friday;8,5
+2025-06-24;App;Sudeste;Tecnologia;1;1555,71;1555,71;842,45;Aniversário da Loja;7,5
+2025-02-20;Loja Física;Nordeste;Tecnologia;15;843,63;12654,45;8854,69;Dia das Mães;5,1
+2025-12-30;E-commerce;Centro-Oeste;Eletrodomésticos;7;2321,69;16251,83;10683,98;Natal;5,1
+2025-02-24;Loja Física;Centro-Oeste;Alimentos;17;2115,26;35959,42;24877,17;Black Friday;5,1
+2025-09-01;App;Sul;Tecnologia;2;575,48;1150,96;692,19;Nenhuma;4,3
+2025-11-16;Loja Física;Norte;Moda;9;613,07;5517,63;4259,94;Dia das Mães;7,5
+2025-05-11;Loja Física;Norte;Eletrodomésticos;9;1290,5;11614,5;7853,85;Aniversário da Loja;9,0
+2025-11-03;E-commerce;Centro-Oeste;Beleza;13;1938,46;25199,98;13245,63;Natal;4,1
+2025-05-15;E-commerce;Nordeste;Alimentos;6;129,22;775,32;492,28;Nenhuma;4,3
+2025-01-21;App;Sudeste;Eletrodomésticos;6;1739,47;10436,82;7586,6;Aniversário da Loja;7,4
+2025-11-25;Loja Física;Nordeste;Beleza;3;1627,63;4882,89;3604,75;Aniversário da Loja;8,9
+2025-06-16;Loja Física;Sudeste;Beleza;17;594,07;10099,19;6548,1;Black Friday;6,0
+2025-10-01;Loja Física;Centro-Oeste;Tecnologia;17;1709,76;29065,92;22334,96;Black Friday;6,1
+2025-03-30;App;Sudeste;Tecnologia;12;2351,65;28219,8;16375,96;Nenhuma;7,6
+2025-11-12;App;Norte;Tecnologia;16;136,03;2176,48;1356,34;Aniversário da Loja;5,6
+2025-01-14;E-commerce;Sul;Eletrodomésticos;15;812,74;12191,1;9382,02;Black Friday;4,2
+2025-08-30;E-commerce;Sul;Eletrodomésticos;13;1106,68;14386,84;11061,71;Natal;8,4
+2025-09-22;E-commerce;Centro-Oeste;Alimentos;1;2250,17;2250,17;1587,98;Natal;7,8
+2025-12-12;Loja Física;Norte;Tecnologia;17;2406,41;40908,97;30996,49;Aniversário da Loja;7,5
+2025-02-22;Loja Física;Nordeste;Beleza;3;1121,41;3364,23;1771,71;Black Friday;8,5
+2025-12-06;E-commerce;Norte;Moda;15;1880,07;28201,05;21418,65;Nenhuma;8,1
+2025-04-02;Loja Física;Sul;Alimentos;4;1338,52;5354,08;3192,03;Nenhuma;5,2
+2025-09-21;E-commerce;Sul;Eletrodomésticos;4;1353,7;5414,8;2997,09;Nenhuma;6,1
+2025-02-04;App;Norte;Alimentos;18;709,69;12774,42;7304,55;Natal;4,8
+2025-07-25;E-commerce;Norte;Alimentos;17;558,05;9486,85;5932,99;Black Friday;4,8
+2025-03-22;App;Sul;Alimentos;19;734,25;13950,75;8026,67;Black Friday;8,1
+2025-02-19;Loja Física;Nordeste;Alimentos;11;1399,69;15396,59;9178,99;Natal;9,2
+2025-12-26;E-commerce;Centro-Oeste;Moda;3;92,3;276,9;149,66;Nenhuma;9,8
+2025-01-02;Loja Física;Centro-Oeste;Tecnologia;8;2269,98;18159,84;10693,48;Nenhuma;7,8
+2025-02-23;App;Norte;Beleza;14;407,58;5706,12;3832,72;Aniversário da Loja;5,1
+2025-04-16;App;Centro-Oeste;Alimentos;1;565,82;565,82;357,91;Dia das Mães;4,6
+2025-09-17;App;Sul;Alimentos;14;1305,32;18274,48;11038,07;Black Friday;8,9
+2025-11-06;Loja Física;Sul;Alimentos;2;1781,08;3562,16;2578,77;Black Friday;7,5
+2025-07-10;Loja Física;Norte;Tecnologia;4;257,41;1029,64;790,82;Black Friday;7,7
+2025-08-06;Loja Física;Norte;Eletrodomésticos;19;807,88;15349,72;11159,81;Dia das Mães;8,7
+2025-02-13;Loja Física;Norte;Eletrodomésticos;6;2422,31;14533,86;8714,51;Aniversário da Loja;8,2
+2025-06-11;App;Nordeste;Moda;1;670,61;670,61;485,07;Dia das Mães;9,0
+2025-07-21;App;Centro-Oeste;Eletrodomésticos;17;796,36;13538,12;7386,32;Nenhuma;4,3
+2025-09-27;E-commerce;Norte;Alimentos;8;2094,52;16756,16;9033,17;Nenhuma;8,5
+2025-12-17;E-commerce;Sudeste;Alimentos;19;144,53;2746,07;1657,77;Black Friday;9,1
+2025-10-31;Loja Física;Sudeste;Alimentos;1;1172,24;1172,24;870,17;Natal;5,7
+2025-09-28;App;Sul;Moda;5;961,45;4807,25;2758,9;Black Friday;7,8
+2025-08-03;App;Centro-Oeste;Alimentos;16;805,14;12882,24;6685,57;Natal;5,9
+2025-09-09;App;Norte;Eletrodomésticos;6;728,53;4371,18;2358,31;Dia das Mães;9,7
+2025-07-09;E-commerce;Sudeste;Tecnologia;8;246,61;1972,88;1494,7;Nenhuma;4,2
+2025-10-23;E-commerce;Centro-Oeste;Tecnologia;13;800,77;10410,01;7184,31;Natal;7,5
+2025-08-01;App;Sul;Beleza;16;126,77;2028,32;1168,23;Dia das Mães;5,0
+2025-07-27;App;Nordeste;Eletrodomésticos;3;1956,79;5870,37;3913,12;Nenhuma;8,3
+2025-08-25;App;Centro-Oeste;Alimentos;19;1007,6;19144,4;12602,26;Natal;5,1
+2025-12-04;E-commerce;Centro-Oeste;Tecnologia;12;1120,88;13450,56;9370,07;Black Friday;5,4
+2025-02-22;App;Nordeste;Eletrodomésticos;16;2236,11;35777,76;20391,76;Black Friday;7,0
+2025-10-07;App;Centro-Oeste;Tecnologia;11;1651,98;18171,78;13798,21;Black Friday;9,5
+2025-08-05;Loja Física;Sul;Alimentos;10;39,99;399,9;237,06;Dia das Mães;5,3
+2025-09-09;Loja Física;Sul;Tecnologia;4;2359,07;9436,28;6683,15;Black Friday;4,9
+2025-07-07;E-commerce;Nordeste;Beleza;12;608,12;7297,44;3684,02;Aniversário da Loja;8,6
+2025-02-10;App;Norte;Beleza;2;286,88;573,76;351,02;Nenhuma;7,0
+2025-06-06;App;Sudeste;Tecnologia;19;1924,96;36574,24;22146,18;Dia das Mães;9,5
+2025-01-15;Loja Física;Norte;Eletrodomésticos;5;1261,18;6305,9;4181,1;Black Friday;4,9
+2025-10-28;E-commerce;Centro-Oeste;Eletrodomésticos;8;1095,75;8766,0;4574,28;Nenhuma;7,9
+2025-03-06;Loja Física;Sudeste;Eletrodomésticos;7;638,77;4471,39;3295,59;Natal;5,4
+2025-12-11;Loja Física;Nordeste;Tecnologia;14;1377,73;19288,22;10904,29;Black Friday;4,9
+2025-11-23;Loja Física;Nordeste;Eletrodomésticos;3;700,47;2101,41;1477,53;Nenhuma;8,1
+2025-01-09;Loja Física;Sudeste;Alimentos;18;2255,93;40606,74;30088,12;Aniversário da Loja;7,6
+2025-12-10;App;Sul;Beleza;16;553,71;8859,36;5923,04;Natal;8,5
+2025-05-09;App;Sudeste;Alimentos;19;2213,2;42050,8;30371,82;Aniversário da Loja;5,9
+2025-05-16;Loja Física;Centro-Oeste;Eletrodomésticos;19;1407,33;26739,27;18678,93;Nenhuma;6,7
+2025-03-04;E-commerce;Sul;Alimentos;18;2074,65;37343,7;22654,89;Aniversário da Loja;6,4
+2025-05-19;E-commerce;Nordeste;Eletrodomésticos;16;1787,86;28605,76;21244,28;Nenhuma;9,9
+2025-03-22;E-commerce;Sudeste;Tecnologia;8;1747,8;13982,4;8227,39;Nenhuma;5,8
+2025-06-12;E-commerce;Norte;Alimentos;1;824,38;824,38;553,46;Aniversário da Loja;5,8
+2025-10-16;Loja Física;Norte;Tecnologia;17;600,06;10201,02;7381,66;Nenhuma;6,1
+2025-09-18;App;Centro-Oeste;Tecnologia;12;543,0;6516,0;3998,78;Black Friday;7,4
+2025-08-19;E-commerce;Norte;Moda;11;2145,84;23604,24;13946,1;Nenhuma;5,5
+2025-02-10;Loja Física;Sudeste;Eletrodomésticos;5;2054,66;10273,3;6552,35;Dia das Mães;9,5
+2025-01-28;E-commerce;Sudeste;Beleza;12;1112,62;13351,44;9952,02;Nenhuma;5,6
+2025-05-15;E-commerce;Norte;Eletrodomésticos;17;348,36;5922,12;4613,19;Dia das Mães;9,4
+2025-07-20;Loja Física;Sudeste;Beleza;6;967,99;5807,94;3853,71;Nenhuma;4,6
+2025-11-24;App;Centro-Oeste;Eletrodomésticos;1;1555,97;1555,97;1086,75;Nenhuma;7,9
+2025-09-25;App;Sul;Tecnologia;5;1146,92;5734,6;4421,27;Aniversário da Loja;9,4
+2025-02-02;Loja Física;Centro-Oeste;Alimentos;14;1954,87;27368,18;14493,2;Black Friday;5,0
+2025-02-17;App;Centro-Oeste;Alimentos;5;2494,1;12470,5;7103,49;Black Friday;9,8
+2025-03-03;Loja Física;Sudeste;Moda;1;494,01;494,01;352,07;Natal;6,7
+2025-08-04;Loja Física;Sul;Beleza;18;1159,93;20878,74;15598,99;Aniversário da Loja;9,7
+2025-10-20;Loja Física;Sudeste;Beleza;16;1088,84;17421,44;13189,92;Aniversário da Loja;8,1
+2025-04-09;App;Nordeste;Beleza;9;775,14;6976,26;4356,9;Black Friday;5,8
+2025-06-21;Loja Física;Sudeste;Tecnologia;19;511,28;9714,32;5117,52;Aniversário da Loja;5,1
+2025-12-26;E-commerce;Sudeste;Beleza;5;182,92;914,6;577,42;Black Friday;5,8
+2025-08-02;App;Sudeste;Alimentos;2;2220,06;4440,12;2527,41;Aniversário da Loja;4,6
+2025-02-04;App;Sul;Tecnologia;15;1061,22;15918,3;9349,76;Nenhuma;4,9
+2025-08-15;App;Sudeste;Eletrodomésticos;7;1252,3;8766,1;6413,98;Black Friday;4,6
+2025-04-11;App;Sul;Beleza;4;2294,02;9176,08;4795,95;Black Friday;6,5
+2025-05-11;E-commerce;Norte;Beleza;1;1945,2;1945,2;1455,54;Dia das Mães;8,8
+2025-09-14;App;Nordeste;Eletrodomésticos;13;343,64;4467,32;2806,82;Aniversário da Loja;4,8
+2025-01-05;App;Sul;Beleza;7;1422,24;9955,68;6758,11;Aniversário da Loja;4,8
+2025-08-06;Loja Física;Norte;Eletrodomésticos;15;1116,79;16751,85;8826,48;Black Friday;7,9
+2025-09-12;App;Sul;Tecnologia;14;1997,08;27959,12;16809,24;Nenhuma;5,2
+2025-12-25;E-commerce;Sul;Alimentos;19;1816,1;34505,9;18181,51;Nenhuma;4,6
+2025-10-10;E-commerce;Nordeste;Eletrodomésticos;18;1732,21;31179,78;24584,11;Nenhuma;5,0
+2025-07-26;E-commerce;Centro-Oeste;Moda;10;864,55;8645,5;6416,5;Aniversário da Loja;9,5
+2025-01-15;E-commerce;Centro-Oeste;Eletrodomésticos;9;2016,31;18146,79;11575,65;Dia das Mães;8,9
+2025-12-12;App;Sul;Beleza;8;149,93;1199,44;680,18;Black Friday;6,1
+2025-02-11;App;Sudeste;Tecnologia;10;415,87;4158,7;3243,94;Natal;7,9
+2025-06-28;E-commerce;Norte;Tecnologia;17;852,35;14489,95;8742,93;Dia das Mães;7,2
+2025-03-04;E-commerce;Sudeste;Eletrodomésticos;2;210,48;420,96;230,81;Natal;8,1
+2025-12-18;App;Sudeste;Alimentos;6;602,79;3616,74;2419,42;Dia das Mães;8,1
+2025-08-19;E-commerce;Sul;Moda;5;2078,77;10393,85;8139,76;Nenhuma;7,8
+2025-08-29;Loja Física;Sul;Tecnologia;9;2371,66;21344,94;10697,0;Aniversário da Loja;5,6
+2025-02-21;E-commerce;Sul;Beleza;5;775,41;3877,05;2215,49;Natal;4,2
+2025-04-06;E-commerce;Sul;Beleza;18;676,0;12168,0;9509,71;Dia das Mães;6,7
+2025-08-10;Loja Física;Centro-Oeste;Alimentos;9;714,13;6427,17;3543,46;Aniversário da Loja;9,3
+2025-08-19;Loja Física;Sul;Tecnologia;17;708,74;12048,58;6433,62;Natal;7,4
+2025-08-25;App;Centro-Oeste;Eletrodomésticos;17;109,11;1854,87;1244,72;Black Friday;9,0
+2025-05-23;App;Centro-Oeste;Beleza;12;2318,75;27825,0;21106,74;Dia das Mães;9,9
+2025-06-20;Loja Física;Sul;Alimentos;7;549,97;3849,79;2475,93;Black Friday;5,0
+2025-01-29;Loja Física;Nordeste;Tecnologia;3;1061,61;3184,83;2542,67;Nenhuma;8,2
+2025-02-05;App;Norte;Tecnologia;10;44,02;440,2;309,79;Black Friday;8,0
+2025-01-13;E-commerce;Sudeste;Tecnologia;2;2147,73;4295,46;2243,19;Black Friday;9,9
+2025-06-09;Loja Física;Centro-Oeste;Tecnologia;3;1833,27;5499,81;4388,02;Dia das Mães;9,9
+2025-11-23;App;Norte;Tecnologia;16;2367,95;37887,2;23579,79;Nenhuma;8,1
+2025-07-06;E-commerce;Nordeste;Beleza;2;1958,41;3916,82;2296,12;Black Friday;5,5
+2025-08-31;Loja Física;Sudeste;Alimentos;10;797,99;7979,9;5325,5;Aniversário da Loja;8,8
+2025-03-27;E-commerce;Sudeste;Tecnologia;6;634,73;3808,38;2251,87;Natal;4,6
+2025-10-11;App;Centro-Oeste;Moda;11;1750,34;19253,74;10126,26;Black Friday;8,7
+2025-03-07;Loja Física;Sul;Moda;7;923,0;6461,0;3233,27;Nenhuma;9,5
+2025-06-19;E-commerce;Nordeste;Alimentos;15;1424,21;21363,15;13562,93;Black Friday;6,3
+2025-02-14;Loja Física;Centro-Oeste;Eletrodomésticos;6;35,52;213,12;160,07;Natal;7,8
+2025-03-03;E-commerce;Nordeste;Eletrodomésticos;9;173,48;1561,32;1048,73;Nenhuma;6,6
+2025-05-14;App;Sul;Eletrodomésticos;12;1347,71;16172,52;12934,17;Dia das Mães;6,6
+2025-10-11;App;Sul;Moda;19;1423,86;27053,34;15854,72;Nenhuma;5,9
+2025-01-28;Loja Física;Centro-Oeste;Eletrodomésticos;3;1883,6;5650,8;3300,84;Dia das Mães;8,6
+2025-04-18;E-commerce;Sul;Beleza;15;347,27;5209,05;2854,17;Nenhuma;9,6
+2025-02-13;Loja Física;Norte;Tecnologia;2;1292,69;2585,38;1419,94;Natal;9,6
+2025-12-06;Loja Física;Sudeste;Moda;2;502,23;1004,46;588,17;Natal;5,0
+2025-10-13;E-commerce;Centro-Oeste;Alimentos;3;251,13;753,39;555,89;Nenhuma;9,2
+2025-11-27;E-commerce;Nordeste;Alimentos;6;1038,03;6228,18;4806,45;Black Friday;8,4
+2025-05-08;E-commerce;Norte;Tecnologia;15;425,07;6376,05;5053,19;Natal;5,5
+2025-12-14;App;Centro-Oeste;Moda;10;570,02;5700,2;3247,33;Dia das Mães;4,4
+2025-08-19;Loja Física;Sul;Eletrodomésticos;9;807,54;7267,86;5555,47;Dia das Mães;5,6
+2025-07-09;Loja Física;Sul;Eletrodomésticos;1;663,28;663,28;396,96;Aniversário da Loja;9,5
+2025-08-13;App;Sul;Beleza;16;237,23;3795,68;2026,33;Dia das Mães;7,8
+2025-10-10;E-commerce;Sul;Beleza;6;242,99;1457,94;1109,5;Aniversário da Loja;8,3
+2025-05-01;App;Nordeste;Eletrodomésticos;9;499,26;4493,34;3104,14;Nenhuma;5,5
+2025-04-26;App;Norte;Alimentos;4;145,39;581,56;319,52;Nenhuma;8,3
+2025-08-21;App;Sudeste;Alimentos;2;1573,61;3147,22;1979,44;Nenhuma;4,2
+2025-09-16;Loja Física;Nordeste;Beleza;4;732,57;2930,28;1717,66;Black Friday;6,3
+2025-12-25;App;Nordeste;Tecnologia;1;713,77;713,77;514,66;Black Friday;7,8
+2025-07-17;Loja Física;Sudeste;Eletrodomésticos;19;843,36;16023,84;10191,56;Aniversário da Loja;4,9
+2025-05-17;Loja Física;Sudeste;Beleza;10;1663,73;16637,3;13256,33;Dia das Mães;8,9
+2025-11-14;Loja Física;Sul;Beleza;15;2179,17;32687,55;16880,62;Dia das Mães;5,4
+2025-06-14;E-commerce;Nordeste;Eletrodomésticos;19;1902,54;36148,26;21924,09;Nenhuma;7,9
+2025-08-13;Loja Física;Centro-Oeste;Eletrodomésticos;16;1824,27;29188,32;18813,92;Natal;6,4
+2025-11-03;Loja Física;Sudeste;Alimentos;4;1221,29;4885,16;3179,95;Black Friday;7,6
+2025-08-22;E-commerce;Sudeste;Tecnologia;2;1740,64;3481,28;2070,6;Black Friday;4,6
+2025-06-21;Loja Física;Norte;Tecnologia;13;1390,85;18081,05;12996,15;Nenhuma;4,1
+2025-06-01;App;Centro-Oeste;Eletrodomésticos;1;556,3;556,3;424,14;Black Friday;9,5
+2025-11-11;App;Centro-Oeste;Moda;17;537,3;9134,1;7139,36;Nenhuma;5,6
+2025-06-09;Loja Física;Sudeste;Beleza;13;755,05;9815,65;7278,58;Aniversário da Loja;8,9
+2025-04-06;E-commerce;Sul;Beleza;4;2278,79;9115,16;6883,53;Dia das Mães;10,0
+2025-08-21;App;Norte;Eletrodomésticos;7;1377,59;9643,13;6414,26;Natal;5,3
+2025-06-29;E-commerce;Centro-Oeste;Moda;17;1840,09;31281,53;23391,28;Dia das Mães;5,6
+2025-04-23;E-commerce;Sudeste;Alimentos;9;879,47;7915,23;4678,31;Dia das Mães;8,0
+2025-11-14;App;Centro-Oeste;Eletrodomésticos;4;1031,14;4124,56;2555,34;Aniversário da Loja;9,8
+2025-02-21;E-commerce;Norte;Eletrodomésticos;19;331,4;6296,6;3746,94;Black Friday;9,5
+2025-09-25;App;Norte;Beleza;1;444,81;444,81;284,77;Natal;7,0
+2025-10-22;E-commerce;Nordeste;Eletrodomésticos;10;2071,84;20718,4;12134,23;Black Friday;8,8
+2025-04-23;App;Sudeste;Eletrodomésticos;4;1470,4;5881,6;4637,54;Dia das Mães;4,8
+2025-04-11;Loja Física;Norte;Eletrodomésticos;9;857,08;7713,72;4580,82;Nenhuma;9,9
+2025-04-23;App;Nordeste;Beleza;13;2011,07;26143,91;13840,94;Dia das Mães;9,8
+2025-03-22;App;Nordeste;Alimentos;14;631,37;8839,18;5816,58;Black Friday;5,0
+2025-07-06;App;Centro-Oeste;Alimentos;10;2440,56;24405,6;12620,86;Dia das Mães;5,8
+2025-04-23;App;Centro-Oeste;Eletrodomésticos;6;875,15;5250,9;2799,59;Nenhuma;4,6
+2025-01-02;E-commerce;Nordeste;Beleza;16;856,53;13704,48;7754,23;Aniversário da Loja;5,6
+2025-05-10;Loja Física;Centro-Oeste;Alimentos;6;793,54;4761,24;3043,88;Black Friday;8,9
+2025-08-08;App;Norte;Alimentos;17;322,84;5488,28;3457,48;Dia das Mães;6,3
+2025-02-23;E-commerce;Sul;Alimentos;10;295,62;2956,2;2187,31;Black Friday;4,5
+2025-12-09;Loja Física;Norte;Beleza;18;1627,3;29291,4;21143,77;Aniversário da Loja;6,1
+2025-08-12;Loja Física;Nordeste;Beleza;18;2190,29;39425,22;24754,92;Dia das Mães;9,9
+2025-08-13;Loja Física;Nordeste;Eletrodomésticos;3;1980,49;5941,47;3565,54;Dia das Mães;7,8
+2025-05-06;Loja Física;Norte;Tecnologia;15;369,95;5549,25;3301,47;Black Friday;6,5
+2025-05-10;App;Centro-Oeste;Alimentos;15;1373,04;20595,6;15080,07;Black Friday;5,0
+2025-02-22;App;Centro-Oeste;Tecnologia;4;281,87;1127,48;581,35;Nenhuma;9,9
+2025-06-21;E-commerce;Nordeste;Beleza;9;132,33;1190,97;600,07;Aniversário da Loja;8,9
+2025-08-06;E-commerce;Sudeste;Beleza;19;1647,84;31308,96;23126,78;Nenhuma;5,7
+2025-06-09;E-commerce;Centro-Oeste;Beleza;17;1347,18;22902,06;14729,32;Dia das Mães;4,4
+2025-07-17;Loja Física;Norte;Tecnologia;11;223,42;2457,62;1325,31;Black Friday;4,3
+2025-09-04;Loja Física;Centro-Oeste;Beleza;9;106,65;959,85;547,76;Dia das Mães;4,7
+2025-11-20;App;Norte;Eletrodomésticos;10;2474,6;24746,0;19295,72;Dia das Mães;7,5
+2025-07-22;Loja Física;Nordeste;Beleza;18;94,45;1700,1;1288,42;Natal;9,6
+2025-07-03;Loja Física;Centro-Oeste;Moda;13;1122,43;14591,59;10402,86;Natal;7,0
+2025-05-03;Loja Física;Norte;Tecnologia;8;1271,46;10171,68;6557,35;Dia das Mães;9,1
+2025-09-12;E-commerce;Nordeste;Moda;7;310,85;2175,95;1427,63;Black Friday;6,7
+2025-10-21;E-commerce;Sudeste;Beleza;17;439,27;7467,59;5918,61;Dia das Mães;8,3
+2025-10-07;App;Norte;Eletrodomésticos;15;892,48;13387,2;10572,29;Natal;8,4
+2025-11-21;Loja Física;Sudeste;Alimentos;15;1908,96;28634,4;16166,43;Black Friday;5,0
+2025-04-08;Loja Física;Sudeste;Beleza;1;1277,56;1277,56;949,65;Dia das Mães;6,2
+2025-07-17;App;Sul;Eletrodomésticos;14;1602,0;22428,0;12541,13;Aniversário da Loja;7,8
+2025-08-28;Loja Física;Centro-Oeste;Tecnologia;5;2463,23;12316,15;6947,06;Aniversário da Loja;4,4
+2025-05-24;Loja Física;Norte;Moda;11;1924,65;21171,15;14879,68;Dia das Mães;6,2
+2025-04-07;E-commerce;Sudeste;Moda;16;1097,22;17555,52;10910,76;Black Friday;7,2
+2025-07-20;App;Sul;Moda;2;1127,18;2254,36;1757,19;Dia das Mães;10,0
+2025-05-04;App;Nordeste;Tecnologia;8;1554,55;12436,4;6550,29;Dia das Mães;6,8
+2025-07-06;App;Norte;Eletrodomésticos;11;1670,11;18371,21;12004,81;Natal;8,9
+2025-11-22;App;Sudeste;Tecnologia;18;1261,76;22711,68;17614,19;Aniversário da Loja;6,6
+2025-12-15;E-commerce;Centro-Oeste;Moda;3;1619,26;4857,78;3746,49;Natal;8,8
+2025-09-16;E-commerce;Sul;Beleza;1;78,36;78,36;42,86;Natal;7,6
+2025-05-28;Loja Física;Sudeste;Alimentos;11;1085,46;11940,06;7283,33;Dia das Mães;9,3
+2025-09-09;Loja Física;Centro-Oeste;Tecnologia;16;711,77;11388,32;7809,39;Natal;6,5
+2025-12-12;Loja Física;Sudeste;Tecnologia;18;340,35;6126,3;3356,1;Aniversário da Loja;7,6
+2025-05-27;Loja Física;Norte;Eletrodomésticos;16;266,88;4270,08;3375,1;Natal;7,8
+2025-05-28;E-commerce;Norte;Eletrodomésticos;10;1515,92;15159,2;11739,66;Aniversário da Loja;6,5
+2025-12-18;App;Norte;Tecnologia;18;1318,53;23733,54;13055,47;Natal;4,9
+2025-07-18;E-commerce;Sul;Moda;6;648,89;3893,34;2088,18;Aniversário da Loja;4,6
+2025-11-04;Loja Física;Norte;Alimentos;19;1187,96;22571,24;11863,95;Natal;4,1
+2025-05-08;E-commerce;Centro-Oeste;Eletrodomésticos;4;1240,74;4962,96;3835,54;Natal;9,2
+2025-02-08;App;Sudeste;Moda;13;503,62;6547,06;3653,83;Black Friday;5,4
+2025-12-04;App;Nordeste;Beleza;14;1637,19;22920,66;14322,79;Aniversário da Loja;5,3
+2025-12-26;E-commerce;Centro-Oeste;Eletrodomésticos;3;1956,68;5870,04;3725,45;Aniversário da Loja;8,4
+2025-05-09;E-commerce;Centro-Oeste;Moda;10;1982,83;19828,3;13477,36;Aniversário da Loja;5,9
+2025-09-24;E-commerce;Norte;Moda;6;1514,13;9084,78;4737,9;Nenhuma;7,0
+2025-05-31;Loja Física;Sul;Alimentos;1;1288,86;1288,86;732,11;Natal;5,0
+2025-10-25;E-commerce;Sudeste;Alimentos;14;171,3;2398,2;1869,27;Aniversário da Loja;9,8
+2025-04-09;E-commerce;Sul;Beleza;8;733,82;5870,56;4535,14;Nenhuma;9,1
+2025-09-20;E-commerce;Sudeste;Moda;19;251,31;4774,89;3506,62;Black Friday;9,2
+2025-09-09;App;Sudeste;Moda;14;2410,28;33743,92;17068,36;Aniversário da Loja;6,4
+2025-05-24;App;Sul;Alimentos;10;355,0;3550,0;2123,26;Aniversário da Loja;8,6
+2025-12-12;Loja Física;Centro-Oeste;Eletrodomésticos;17;396,4;6738,8;4638,91;Nenhuma;4,9
+2025-04-22;Loja Física;Sudeste;Eletrodomésticos;9;2226,15;20035,35;11671,73;Natal;4,1
+2025-03-01;App;Sul;Tecnologia;6;2360,94;14165,64;10948,28;Black Friday;4,1
+2025-01-02;App;Sudeste;Alimentos;11;1919,26;21111,86;14570,71;Aniversário da Loja;7,5
+2025-10-31;App;Nordeste;Tecnologia;7;33,4;233,8;121,94;Natal;6,7
+2025-09-11;E-commerce;Centro-Oeste;Alimentos;17;23,34;396,78;306,59;Black Friday;7,1
+2025-05-20;E-commerce;Norte;Beleza;1;957,69;957,69;754,02;Dia das Mães;4,0
+2025-02-06;App;Sudeste;Moda;5;375,62;1878,1;982,84;Dia das Mães;6,5
+2025-06-09;E-commerce;Nordeste;Beleza;9;65,6;590,4;389,49;Black Friday;8,3
+2025-01-09;E-commerce;Norte;Alimentos;18;1170,89;21076,02;12456,12;Nenhuma;6,7
+2025-08-21;Loja Física;Norte;Moda;2;2358,79;4717,58;2914,76;Black Friday;8,4
+2025-04-09;App;Sudeste;Eletrodomésticos;11;823,07;9053,77;5014,84;Black Friday;5,4
+2025-05-27;App;Sul;Eletrodomésticos;6;1659,63;9957,78;6705,78;Nenhuma;8,9
+2025-10-31;E-commerce;Sudeste;Tecnologia;8;1637,54;13100,32;10315,11;Nenhuma;7,5
+2025-07-27;App;Nordeste;Alimentos;4;642,68;2570,72;1673,34;Natal;5,3
+2025-05-11;Loja Física;Norte;Alimentos;18;1633,05;29394,9;15428,63;Natal;5,4
+2025-06-01;Loja Física;Sudeste;Eletrodomésticos;11;546,59;6012,49;4124,57;Nenhuma;7,8
+2025-02-23;Loja Física;Sul;Beleza;5;322,58;1612,9;971,07;Dia das Mães;9,0
+2025-04-30;App;Sudeste;Moda;15;1759,43;26391,45;19972,46;Dia das Mães;6,5
+2025-06-10;App;Centro-Oeste;Beleza;18;301,33;5423,94;3419,27;Black Friday;5,5
+2025-04-26;App;Sul;Beleza;2;2492,33;4984,66;2780,7;Aniversário da Loja;9,2
+2025-03-16;App;Nordeste;Eletrodomésticos;11;474,96;5224,56;2911,81;Black Friday;8,0
+2025-04-23;App;Norte;Eletrodomésticos;13;1493,47;19415,11;14185,25;Black Friday;6,7
+2025-04-14;Loja Física;Sudeste;Eletrodomésticos;4;1040,21;4160,84;2411,94;Aniversário da Loja;6,9
+2025-12-06;E-commerce;Sul;Tecnologia;7;333,44;2334,08;1704,28;Nenhuma;5,2
+2025-09-11;Loja Física;Centro-Oeste;Beleza;11;89,05;979,55;550,28;Dia das Mães;7,8
+2025-08-15;App;Sul;Alimentos;4;1564,38;6257,52;3732,65;Black Friday;6,2
+2025-04-22;Loja Física;Centro-Oeste;Moda;15;2020,76;30311,4;19388,57;Aniversário da Loja;10,0
+2025-04-09;App;Nordeste;Tecnologia;1;2108,2;2108,2;1650,63;Natal;6,9
+2025-06-02;App;Norte;Alimentos;3;1217,13;3651,39;2846,33;Black Friday;6,9
+2025-12-15;Loja Física;Nordeste;Beleza;14;1948,09;27273,26;15329,25;Dia das Mães;7,4
+2025-12-04;App;Sudeste;Eletrodomésticos;6;1688,66;10131,96;6154,82;Nenhuma;9,5
+2025-07-13;E-commerce;Sul;Beleza;18;1816,15;32690,7;17810,54;Black Friday;8,8
+2025-11-06;App;Centro-Oeste;Moda;1;1241,65;1241,65;810,79;Black Friday;6,7
+2025-06-12;E-commerce;Centro-Oeste;Tecnologia;6;1590,86;9545,16;6091,48;Aniversário da Loja;8,3
+2025-07-27;E-commerce;Sul;Tecnologia;6;2017,7;12106,2;9324,53;Natal;7,5
+2025-06-18;App;Sul;Moda;16;1006,75;16108,0;12548,16;Natal;7,0
+2025-06-10;Loja Física;Sudeste;Alimentos;5;2018,83;10094,15;6208,61;Nenhuma;5,2
+2025-03-09;E-commerce;Nordeste;Alimentos;17;1488,2;25299,4;16381,9;Dia das Mães;6,8
+2025-10-16;Loja Física;Centro-Oeste;Tecnologia;10;431,43;4314,3;3317,14;Nenhuma;5,5
+2025-10-04;E-commerce;Sudeste;Tecnologia;18;81,22;1461,96;1084,79;Black Friday;9,5
+2025-10-31;App;Nordeste;Eletrodomésticos;7;919,63;6437,41;3225,77;Black Friday;6,0
+2025-05-15;App;Sudeste;Alimentos;3;1375,81;4127,43;2460,02;Natal;9,7
+2025-07-14;E-commerce;Centro-Oeste;Moda;13;2102,75;27335,75;17126,73;Dia das Mães;7,2
+2025-05-08;App;Sul;Alimentos;15;336,16;5042,4;2868,7;Aniversário da Loja;7,8
+2025-02-02;E-commerce;Sul;Eletrodomésticos;19;2004,51;38085,69;21323,09;Dia das Mães;7,3
+2025-06-25;App;Nordeste;Tecnologia;3;2160,26;6480,78;3313,85;Black Friday;4,8
+2025-01-22;Loja Física;Norte;Tecnologia;4;393,7;1574,8;1091,35;Aniversário da Loja;6,3
+2025-08-26;App;Nordeste;Eletrodomésticos;5;2131,95;10659,75;6169,36;Dia das Mães;4,6
+2025-06-07;Loja Física;Norte;Moda;1;2478,8;2478,8;1278,33;Dia das Mães;7,7
+2025-02-07;App;Sudeste;Tecnologia;4;1822,56;7290,24;4150,29;Aniversário da Loja;6,7
+2025-08-18;Loja Física;Sudeste;Beleza;12;1966,23;23594,76;17473,67;Black Friday;8,7
+2025-12-31;App;Centro-Oeste;Tecnologia;10;2486,15;24861,5;18781,54;Dia das Mães;5,3
+2025-02-20;Loja Física;Norte;Beleza;13;1521,59;19780,67;12756,95;Aniversário da Loja;5,0
+2025-09-21;E-commerce;Centro-Oeste;Eletrodomésticos;14;783,56;10969,84;6854,19;Black Friday;6,4
+2025-10-10;E-commerce;Sul;Eletrodomésticos;5;2097,08;10485,4;8318,66;Aniversário da Loja;9,6
+2025-01-27;Loja Física;Norte;Tecnologia;4;1543,92;6175,68;3459,43;Aniversário da Loja;8,3
+2025-08-14;App;Nordeste;Alimentos;14;1461,36;20459,04;11551,33;Dia das Mães;6,5
+2025-10-04;Loja Física;Sul;Beleza;10;649,02;6490,2;3813,38;Black Friday;7,1
+2025-10-13;App;Sul;Moda;17;1895,71;32227,07;17783,77;Dia das Mães;4,5
+2025-04-07;E-commerce;Nordeste;Tecnologia;10;222,53;2225,3;1365,91;Nenhuma;9,9
+2025-10-11;App;Sul;Moda;7;2312,23;16185,61;12515,53;Nenhuma;8,0
+2025-11-13;E-commerce;Norte;Tecnologia;16;828,04;13248,64;9070,08;Black Friday;5,7
+2025-10-31;App;Centro-Oeste;Alimentos;1;336,88;336,88;210,07;Aniversário da Loja;7,5
+2025-05-27;App;Sul;Alimentos;17;1117,07;18990,19;14818,49;Dia das Mães;4,7
+2025-01-04;App;Norte;Alimentos;9;125,33;1127,97;580,38;Dia das Mães;9,8
+2025-02-04;Loja Física;Sudeste;Alimentos;6;1717,87;10307,22;5803,82;Black Friday;5,0
+2025-07-11;Loja Física;Norte;Eletrodomésticos;19;2258,71;42915,49;28743,36;Black Friday;7,9
+2025-02-18;E-commerce;Centro-Oeste;Eletrodomésticos;13;2096,41;27253,33;18659,42;Nenhuma;5,5
+2025-01-17;E-commerce;Norte;Beleza;3;335,88;1007,64;515,78;Natal;8,3
+2025-06-21;Loja Física;Nordeste;Moda;7;333,15;2332,05;1448,0;Black Friday;8,7
+2025-08-08;E-commerce;Centro-Oeste;Tecnologia;9;2037,32;18335,88;12738,78;Natal;8,0
+2025-06-07;Loja Física;Sudeste;Tecnologia;5;2312,15;11560,75;8201,44;Black Friday;7,7
+2025-02-15;App;Nordeste;Eletrodomésticos;10;1162,46;11624,6;8037,74;Aniversário da Loja;9,4
+2025-01-06;E-commerce;Norte;Tecnologia;17;1257,45;21376,65;12744,1;Aniversário da Loja;4,5
+2025-04-09;E-commerce;Centro-Oeste;Eletrodomésticos;12;809,29;9711,48;5128,21;Nenhuma;6,0
+2025-08-21;Loja Física;Sudeste;Beleza;16;2237,78;35804,48;22490,0;Nenhuma;5,5
+2025-02-06;E-commerce;Nordeste;Moda;3;1619,36;4858,08;2616,69;Natal;9,9
+2025-10-07;E-commerce;Sudeste;Beleza;9;734,86;6613,74;5187,07;Black Friday;6,3
+2025-12-15;App;Norte;Alimentos;15;760,98;11414,7;7334,53;Dia das Mães;8,4
+2025-10-29;E-commerce;Sudeste;Alimentos;5;2230,18;11150,9;6636,77;Nenhuma;8,1
+2025-06-30;App;Sul;Alimentos;13;53,81;699,53;510,58;Dia das Mães;5,3
+2025-04-05;Loja Física;Nordeste;Beleza;14;820,36;11485,04;7458,21;Dia das Mães;5,4
+2025-04-09;E-commerce;Sudeste;Tecnologia;15;1394,8;20922,0;12406,96;Black Friday;5,7
+2025-07-07;App;Norte;Moda;16;387,58;6201,28;4611,21;Natal;6,5
+2025-04-26;Loja Física;Norte;Alimentos;13;248,4;3229,2;2454,66;Black Friday;5,4
+2025-07-10;E-commerce;Sudeste;Alimentos;17;2041,89;34712,13;24364,53;Nenhuma;4,1
+2025-09-10;Loja Física;Norte;Alimentos;8;2238,12;17904,96;9204,75;Dia das Mães;9,3
+2025-06-10;E-commerce;Centro-Oeste;Moda;2;2062,54;4125,08;2763,38;Black Friday;9,8
+2025-09-13;Loja Física;Centro-Oeste;Alimentos;5;2248,99;11244,95;8197,44;Black Friday;6,0
+2025-11-19;Loja Física;Centro-Oeste;Moda;6;1391,72;8350,32;4517,11;Black Friday;6,0
+2025-05-08;App;Sul;Alimentos;12;2034,4;24412,8;13881,15;Nenhuma;4,0
+2025-01-18;Loja Física;Sudeste;Beleza;18;972,43;17503,74;13385,96;Natal;8,1
+2025-10-08;E-commerce;Sul;Beleza;1;1672,34;1672,34;846,27;Black Friday;9,0
+2025-08-11;E-commerce;Norte;Moda;17;2472,31;42029,27;30505,61;Nenhuma;4,9
+2025-02-23;App;Sul;Beleza;11;579,8;6377,8;4095,39;Dia das Mães;5,0
+2025-02-27;E-commerce;Norte;Moda;10;986,95;9869,5;6257,58;Aniversário da Loja;8,7
+2025-11-19;E-commerce;Norte;Beleza;19;1210,52;22999,88;11548,91;Nenhuma;7,7
+2025-12-26;E-commerce;Nordeste;Beleza;14;362,28;5071,92;3782,74;Aniversário da Loja;4,3
+2025-06-23;Loja Física;Centro-Oeste;Moda;10;220,98;2209,8;1343,44;Black Friday;7,7
+2025-10-07;Loja Física;Norte;Tecnologia;15;2077,71;31165,65;20638,82;Black Friday;5,9
+2025-04-24;E-commerce;Nordeste;Beleza;19;2442,45;46406,55;32632,63;Nenhuma;6,2
+2025-10-15;App;Centro-Oeste;Alimentos;4;1023,72;4094,88;2910,6;Aniversário da Loja;8,6
+2025-12-08;Loja Física;Norte;Tecnologia;2;237,37;474,74;373,52;Black Friday;8,9
+2025-05-31;App;Norte;Moda;9;183,21;1648,89;1087,28;Dia das Mães;6,4
+2025-05-07;E-commerce;Sul;Tecnologia;10;2230,47;22304,7;13827,04;Natal;9,7
+2025-06-04;E-commerce;Sul;Eletrodomésticos;11;1170,26;12872,86;10119,5;Natal;6,4
+2025-09-30;Loja Física;Centro-Oeste;Eletrodomésticos;14;813,67;11391,38;7890,05;Black Friday;8,6
+2025-04-14;E-commerce;Norte;Beleza;7;1201,62;8411,34;4958,02;Aniversário da Loja;6,9
+2025-10-26;Loja Física;Sudeste;Beleza;15;809,39;12140,85;6531,04;Black Friday;9,4
+2025-09-03;E-commerce;Sul;Alimentos;19;1232,81;23423,39;17632,34;Aniversário da Loja;9,4
+2025-06-25;E-commerce;Centro-Oeste;Tecnologia;15;2151,7;32275,5;19644,63;Dia das Mães;4,5
+2025-02-08;Loja Física;Norte;Eletrodomésticos;8;1488,91;11911,28;8315,75;Aniversário da Loja;9,6
+2025-06-19;Loja Física;Norte;Beleza;11;1742,74;19170,14;12292,76;Black Friday;9,0
+2025-09-04;Loja Física;Sudeste;Tecnologia;9;924,38;8319,42;4656,2;Dia das Mães;8,7
+2025-01-26;E-commerce;Centro-Oeste;Beleza;15;1851,49;27772,35;18899,25;Nenhuma;5,2
+2025-12-21;E-commerce;Norte;Beleza;1;1673,21;1673,21;867,07;Natal;8,8
+2025-11-02;App;Sul;Eletrodomésticos;1;316,51;316,51;197,5;Black Friday;9,1
+2025-01-13;Loja Física;Sudeste;Eletrodomésticos;19;1440,15;27362,85;18168,51;Black Friday;5,7
+2025-11-12;E-commerce;Centro-Oeste;Beleza;3;656,72;1970,16;1242,8;Black Friday;9,7
+2025-11-09;E-commerce;Sudeste;Moda;10;2014,16;20141,6;14594,64;Dia das Mães;4,3
+2025-02-05;Loja Física;Sul;Beleza;8;1076,33;8610,64;6444,01;Nenhuma;4,9
+2025-06-22;App;Centro-Oeste;Beleza;15;2486,82;37302,3;27281,89;Aniversário da Loja;7,2
+2025-01-20;Loja Física;Sudeste;Alimentos;10;249,4;2494,0;1276,04;Nenhuma;7,5
+2025-11-17;App;Nordeste;Alimentos;1;1955,26;1955,26;1091,5;Dia das Mães;7,9
+2025-09-21;E-commerce;Sul;Alimentos;18;1690,78;30434,04;20116,36;Black Friday;4,1
+2025-05-22;App;Sul;Moda;2;1923,4;3846,8;3002,22;Natal;9,8
+2025-05-23;E-commerce;Sul;Moda;19;782,67;14870,73;11160,29;Black Friday;4,3
+2025-04-02;Loja Física;Nordeste;Beleza;13;1240,3;16123,9;12137,43;Aniversário da Loja;4,9
+2025-12-20;Loja Física;Nordeste;Alimentos;1;1995,34;1995,34;1179,17;Natal;4,1
+2025-11-18;Loja Física;Norte;Moda;2;596,7;1193,4;750,45;Black Friday;7,4
+2025-10-15;App;Sudeste;Eletrodomésticos;16;580,56;9288,96;5956,19;Natal;9,6
+2025-08-03;E-commerce;Norte;Beleza;15;1386,61;20799,15;11381,53;Nenhuma;8,0
+2025-12-08;Loja Física;Sudeste;Tecnologia;13;1318,44;17139,72;8729,61;Dia das Mães;8,9
+2025-02-20;Loja Física;Nordeste;Beleza;16;720,01;11520,16;9032,62;Black Friday;4,1
+2025-06-02;E-commerce;Nordeste;Tecnologia;17;759,23;12906,91;7385,51;Aniversário da Loja;7,3
+2025-07-05;Loja Física;Norte;Alimentos;7;709,06;4963,42;2839,0;Nenhuma;6,8
+2025-03-04;E-commerce;Centro-Oeste;Tecnologia;17;1933,35;32866,95;17255,6;Black Friday;7,0
+2025-07-09;E-commerce;Norte;Alimentos;7;1636,71;11456,97;8919,85;Nenhuma;4,4
+2025-05-05;E-commerce;Sudeste;Eletrodomésticos;13;2084,39;27097,07;18261,29;Aniversário da Loja;8,1
+2025-05-30;E-commerce;Norte;Tecnologia;5;2439,17;12195,85;8538,45;Black Friday;7,0
+2025-11-10;E-commerce;Sul;Beleza;17;1195,93;20330,81;15725,33;Aniversário da Loja;8,6
+2025-02-27;App;Sudeste;Alimentos;3;185,4;556,2;335,77;Natal;6,9
+2025-12-08;Loja Física;Sudeste;Beleza;7;139,27;974,89;669,22;Aniversário da Loja;4,9
+2025-11-01;App;Centro-Oeste;Moda;17;753,25;12805,25;6551,68;Natal;7,9
+2025-06-29;Loja Física;Nordeste;Alimentos;7;2332,71;16328,97;9079,43;Black Friday;5,0
+2025-06-19;App;Sudeste;Tecnologia;1;1317,57;1317,57;987,35;Natal;9,2
+2025-11-22;E-commerce;Nordeste;Alimentos;17;694,03;11798,51;8613,27;Black Friday;7,7
+2025-09-28;Loja Física;Norte;Beleza;17;1009,93;17168,81;10390,44;Black Friday;4,9
+2025-02-23;Loja Física;Sul;Eletrodomésticos;11;1504,52;16549,72;10145,69;Dia das Mães;9,8
+2025-04-11;App;Centro-Oeste;Alimentos;3;1639,32;4917,96;3246,18;Black Friday;7,1
+2025-09-21;App;Nordeste;Tecnologia;15;401,72;6025,8;3013,34;Natal;4,4
+2025-02-22;Loja Física;Sudeste;Moda;11;2443,04;26873,44;15381,64;Dia das Mães;7,8
+2025-03-01;App;Nordeste;Eletrodomésticos;16;1371,04;21936,64;12338,69;Dia das Mães;5,5
+2025-04-18;App;Sudeste;Moda;9;356,51;3208,59;1845,4;Black Friday;8,8
+2025-01-05;App;Nordeste;Alimentos;1;2236,22;2236,22;1658,76;Aniversário da Loja;8,9
+2025-04-13;E-commerce;Sudeste;Beleza;16;205,1;3281,6;1916,13;Aniversário da Loja;9,9
+2025-07-15;E-commerce;Norte;Beleza;9;2271,18;20440,62;11394,75;Dia das Mães;7,0
+2025-09-19;App;Sudeste;Tecnologia;19;2491,48;47338,12;30830,33;Black Friday;6,7
+2025-12-31;App;Sudeste;Beleza;12;1757,07;21084,84;16018,02;Aniversário da Loja;8,5
+2025-12-16;E-commerce;Sul;Eletrodomésticos;19;1930,71;36683,49;20997,81;Black Friday;4,8
+2025-02-16;E-commerce;Sudeste;Beleza;9;856,51;7708,59;4035,92;Black Friday;7,3
+2025-12-21;Loja Física;Sul;Tecnologia;7;2355,11;16485,77;10005,57;Dia das Mães;7,3
+2025-11-07;Loja Física;Centro-Oeste;Alimentos;14;1333,69;18671,66;13523,8;Dia das Mães;4,5
+2025-11-04;E-commerce;Sul;Alimentos;19;1836,32;34890,08;23209,13;Nenhuma;6,5
+2025-05-24;App;Norte;Beleza;19;2311,79;43924,01;32725,06;Aniversário da Loja;9,1
+2025-09-26;App;Sul;Moda;2;2438,45;4876,9;3842,4;Aniversário da Loja;9,1
+2025-05-04;App;Centro-Oeste;Alimentos;9;2086,35;18777,15;13853,76;Aniversário da Loja;4,6
+2025-04-16;App;Norte;Beleza;13;771,48;10029,24;6831,33;Natal;4,5
+2025-06-07;Loja Física;Nordeste;Tecnologia;15;2417,04;36255,6;23493,72;Black Friday;5,6
+2025-05-27;E-commerce;Nordeste;Beleza;3;1577,74;4733,22;2423,51;Dia das Mães;9,2
+2025-05-25;App;Sul;Alimentos;11;2327,99;25607,89;20365,87;Aniversário da Loja;4,8
+2025-04-30;Loja Física;Sul;Tecnologia;14;1696,74;23754,36;14609,98;Nenhuma;8,3
+2025-11-15;App;Centro-Oeste;Beleza;8;781,95;6255,6;3413,48;Aniversário da Loja;4,6
+2025-10-02;E-commerce;Centro-Oeste;Eletrodomésticos;18;937,66;16877,88;11814,73;Black Friday;7,7
+2025-04-02;Loja Física;Sudeste;Tecnologia;19;1385,17;26318,23;15403,7;Black Friday;6,1
+2025-02-27;E-commerce;Centro-Oeste;Eletrodomésticos;16;1979,24;31667,84;21399,02;Dia das Mães;8,7
+2025-12-12;E-commerce;Sudeste;Moda;2;808,6;1617,2;1093,28;Natal;5,4
+2025-08-17;Loja Física;Norte;Tecnologia;8;1457,73;11661,84;7390,33;Dia das Mães;7,8
+2025-04-27;Loja Física;Sul;Eletrodomésticos;6;877,15;5262,9;3951,57;Aniversário da Loja;5,4
+2025-11-14;Loja Física;Norte;Alimentos;12;2043,11;24517,32;14207,54;Nenhuma;8,3
+2025-10-06;Loja Física;Centro-Oeste;Alimentos;15;1177,49;17662,35;11208,35;Dia das Mães;9,2
+2025-05-07;Loja Física;Norte;Moda;8;210,27;1682,16;1112,43;Natal;4,8
+2025-05-09;Loja Física;Norte;Tecnologia;4;431,81;1727,24;1207,49;Dia das Mães;9,2
+2025-02-27;Loja Física;Norte;Tecnologia;15;171,54;2573,1;1891,72;Black Friday;7,6
+2025-05-02;App;Centro-Oeste;Tecnologia;17;1258,27;21390,59;13228,84;Aniversário da Loja;4,8
+2025-01-01;E-commerce;Norte;Moda;13;283,72;3688,36;2559,04;Aniversário da Loja;6,6
+2025-08-27;Loja Física;Sudeste;Tecnologia;18;303,07;5455,26;2974,12;Aniversário da Loja;5,0
+2025-10-17;App;Centro-Oeste;Alimentos;2;2353,8;4707,6;3670,96;Aniversário da Loja;8,2
+2025-04-06;App;Norte;Eletrodomésticos;13;2184,18;28394,34;17460,18;Aniversário da Loja;8,6
+2025-05-06;App;Centro-Oeste;Alimentos;13;1141,17;14835,21;10664,39;Aniversário da Loja;4,6
+2025-04-28;E-commerce;Nordeste;Alimentos;15;2464,8;36972,0;18711,62;Nenhuma;7,0
+2025-02-17;Loja Física;Sudeste;Eletrodomésticos;10;20,46;204,6;114,89;Natal;8,9
+2025-03-30;App;Norte;Alimentos;3;1542,67;4628,01;2990,27;Aniversário da Loja;9,6
+2025-08-25;E-commerce;Nordeste;Moda;19;1548,74;29426,06;22466,08;Natal;7,1
+2025-09-29;E-commerce;Nordeste;Eletrodomésticos;3;1154,46;3463,38;2279,52;Aniversário da Loja;9,7
+2025-07-08;E-commerce;Centro-Oeste;Alimentos;14;1004,43;14062,02;10953,77;Dia das Mães;7,2
+2025-07-11;App;Nordeste;Beleza;8;1149,35;9194,8;5931,92;Aniversário da Loja;6,4
+2025-03-10;Loja Física;Sudeste;Alimentos;4;1049,1;4196,4;2715,64;Black Friday;9,1
+2025-10-05;App;Sudeste;Moda;11;1831,62;20147,82;10797,7;Nenhuma;7,0
+2025-12-15;App;Sul;Tecnologia;11;355,68;3912,48;2898,35;Dia das Mães;6,8
+2025-09-04;Loja Física;Sudeste;Alimentos;11;510,15;5611,65;3221,59;Dia das Mães;6,9
+2025-03-17;Loja Física;Nordeste;Tecnologia;2;467,69;935,38;720,13;Black Friday;9,1
+2025-06-03;Loja Física;Sudeste;Beleza;17;670,93;11405,81;8819,51;Aniversário da Loja;9,0
+2025-05-24;E-commerce;Centro-Oeste;Alimentos;9;1322,64;11903,76;9320,56;Nenhuma;6,4
+2025-03-27;Loja Física;Sul;Eletrodomésticos;2;295,8;591,6;388,13;Dia das Mães;6,0
+2025-07-04;App;Nordeste;Tecnologia;15;2173,06;32595,9;22919,09;Nenhuma;7,0
+2025-10-12;Loja Física;Sul;Beleza;16;757,46;12119,36;8890,21;Dia das Mães;7,4
+2025-08-08;App;Nordeste;Eletrodomésticos;4;423,09;1692,36;912,7;Aniversário da Loja;5,4
+2025-03-10;E-commerce;Centro-Oeste;Eletrodomésticos;8;1695,54;13564,32;9227,63;Dia das Mães;8,8
+2025-02-16;App;Sul;Eletrodomésticos;9;114,45;1030,05;525,62;Dia das Mães;6,9
+2025-04-04;App;Norte;Eletrodomésticos;5;1557,52;7787,6;5056,25;Natal;6,0
+2025-08-26;Loja Física;Nordeste;Alimentos;16;1751,53;28024,48;15314,06;Aniversário da Loja;4,6
+2025-07-23;Loja Física;Norte;Alimentos;13;552,99;7188,87;3988,94;Black Friday;5,4
+2025-08-06;App;Sul;Alimentos;7;124,07;868,49;529,36;Black Friday;9,7
+2025-12-07;Loja Física;Norte;Beleza;17;921,84;15671,28;9868,69;Aniversário da Loja;5,8
+2025-02-08;E-commerce;Norte;Beleza;3;264,51;793,53;545,12;Black Friday;5,0
+2025-04-10;E-commerce;Sul;Beleza;5;308,87;1544,35;806,66;Aniversário da Loja;6,8
+2025-10-16;Loja Física;Centro-Oeste;Moda;19;650,57;12360,83;8048,23;Black Friday;5,8
+2025-09-11;E-commerce;Norte;Beleza;12;752,76;9033,12;5011,46;Natal;4,2
+2025-08-10;Loja Física;Norte;Alimentos;7;1334,33;9340,31;6278,49;Black Friday;5,9
+2025-12-23;App;Centro-Oeste;Alimentos;9;1702,41;15321,69;10590,68;Dia das Mães;7,3
+2025-01-23;App;Norte;Moda;6;1490,07;8940,42;5963,37;Aniversário da Loja;7,3
+2025-09-07;E-commerce;Norte;Moda;17;387,93;6594,81;4758,08;Nenhuma;6,1
+2025-01-10;Loja Física;Norte;Beleza;16;446,77;7148,32;4293,87;Nenhuma;6,7
+2025-09-03;Loja Física;Sudeste;Tecnologia;3;2199,35;6598,05;4813,49;Aniversário da Loja;9,8
+2025-11-21;E-commerce;Centro-Oeste;Moda;4;1404,71;5618,84;3538,91;Natal;6,3
+2025-04-10;App;Norte;Eletrodomésticos;10;2177,45;21774,5;14050,11;Black Friday;5,5
+2025-10-17;E-commerce;Centro-Oeste;Alimentos;5;941,44;4707,2;3268,82;Natal;5,5
+2025-06-29;App;Nordeste;Eletrodomésticos;10;1543,71;15437,1;7803,57;Nenhuma;6,7
+2025-08-11;Loja Física;Nordeste;Alimentos;12;1318,69;15824,28;11016,84;Aniversário da Loja;8,6
+2025-09-07;App;Norte;Alimentos;10;811,43;8114,3;5562,97;Aniversário da Loja;5,2
+2025-05-27;E-commerce;Centro-Oeste;Moda;13;1185,39;15410,07;9137,46;Natal;8,3
+2025-04-06;Loja Física;Centro-Oeste;Moda;11;1266,18;13927,98;7322,47;Natal;4,1
+2025-09-14;E-commerce;Centro-Oeste;Eletrodomésticos;16;517,91;8286,56;4369,34;Black Friday;6,5
+2025-11-21;E-commerce;Sudeste;Alimentos;8;801,23;6409,84;4980,23;Dia das Mães;8,7
+2025-01-04;App;Nordeste;Eletrodomésticos;8;1982,7;15861,6;11210,72;Dia das Mães;6,0
+2025-01-16;E-commerce;Centro-Oeste;Tecnologia;8;2291,15;18329,2;9863,51;Black Friday;7,4
+2025-10-07;App;Centro-Oeste;Eletrodomésticos;13;912,29;11859,77;7199,08;Dia das Mães;5,2
+2025-12-02;Loja Física;Sudeste;Beleza;2;781,29;1562,58;1059,03;Nenhuma;8,5
+2025-09-04;App;Sudeste;Eletrodomésticos;12;504,09;6049,08;4540,87;Dia das Mães;4,3
+2025-09-15;Loja Física;Centro-Oeste;Beleza;10;1702,66;17026,6;8736,32;Black Friday;9,1
+2025-06-09;App;Sul;Beleza;12;821,29;9855,48;5627,38;Dia das Mães;5,2
+2025-12-06;E-commerce;Centro-Oeste;Beleza;11;2469,62;27165,82;20834,14;Aniversário da Loja;9,2
+2025-06-01;App;Centro-Oeste;Tecnologia;15;827,7;12415,5;6241,89;Natal;6,1
+2025-06-27;App;Sudeste;Eletrodomésticos;16;997,46;15959,36;8943,94;Nenhuma;8,3
+2025-06-12;Loja Física;Sudeste;Eletrodomésticos;17;1516,27;25776,59;20304,41;Aniversário da Loja;5,9
+2025-02-02;E-commerce;Centro-Oeste;Tecnologia;2;2008,18;4016,36;2747,27;Aniversário da Loja;9,4
+2025-06-28;App;Centro-Oeste;Alimentos;18;1184,41;21319,38;12333,29;Black Friday;4,8
+2025-04-11;E-commerce;Centro-Oeste;Moda;12;1068,19;12818,28;6666,75;Natal;5,1
+2025-09-25;App;Sudeste;Eletrodomésticos;19;2489,18;47294,42;24047,2;Natal;7,0
+2025-11-19;App;Centro-Oeste;Moda;18;46,02;828,36;475,0;Nenhuma;4,5
+2025-03-06;E-commerce;Centro-Oeste;Tecnologia;17;2239,76;38075,92;29106,98;Black Friday;5,2
+2025-06-17;App;Norte;Alimentos;6;389,87;2339,22;1461,48;Nenhuma;9,7
+2025-11-26;E-commerce;Sul;Alimentos;15;1969,09;29536,35;21150,98;Dia das Mães;9,9
+2025-02-12;App;Nordeste;Alimentos;3;1552,47;4657,41;3611,75;Aniversário da Loja;6,3
+2025-02-13;Loja Física;Sul;Tecnologia;6;867,78;5206,68;3240,7;Nenhuma;9,5
+2025-10-12;E-commerce;Norte;Beleza;3;2187,21;6561,63;3657,34;Aniversário da Loja;7,3
+2025-01-12;App;Nordeste;Beleza;1;52,01;52,01;34,07;Black Friday;5,6
+2025-04-05;App;Centro-Oeste;Moda;13;582,19;7568,47;5846,08;Dia das Mães;8,2
+2025-10-29;Loja Física;Norte;Beleza;14;1425,89;19962,46;14798,42;Black Friday;8,0
+2025-09-10;E-commerce;Centro-Oeste;Beleza;13;891,82;11593,66;6025,79;Dia das Mães;9,9
+2025-08-30;App;Sudeste;Alimentos;4;1533,74;6134,96;4342,15;Dia das Mães;5,6
+2025-02-04;Loja Física;Norte;Alimentos;7;79,79;558,53;375,09;Aniversário da Loja;8,0
+2025-08-03;App;Sudeste;Moda;10;308,82;3088,2;2384,83;Black Friday;4,3
+2025-12-03;E-commerce;Norte;Eletrodomésticos;7;335,2;2346,4;1259,42;Black Friday;4,7
+2025-03-31;App;Norte;Moda;15;489,42;7341,3;4846,81;Nenhuma;4,0
+2025-09-21;App;Sudeste;Moda;15;1159,14;17387,1;13280,94;Black Friday;10,0
+2025-04-03;App;Nordeste;Tecnologia;4;1885,28;7541,12;4698,17;Nenhuma;8,8
+2025-03-31;App;Sul;Tecnologia;6;2265,74;13594,44;8762,96;Natal;8,7
+2025-04-25;Loja Física;Centro-Oeste;Moda;5;2091,72;10458,6;5450,38;Natal;7,1
+2025-04-15;Loja Física;Norte;Moda;12;508,28;6099,36;3558,63;Natal;5,8
+2025-07-15;E-commerce;Centro-Oeste;Moda;1;1114,05;1114,05;665,48;Black Friday;4,9
+2025-11-10;Loja Física;Sudeste;Beleza;8;514,54;4116,32;3225,29;Black Friday;5,7
+2025-04-24;Loja Física;Centro-Oeste;Tecnologia;1;675,89;675,89;395,26;Nenhuma;6,3
+2025-03-16;E-commerce;Sudeste;Moda;5;1268,8;6344,0;4049,13;Dia das Mães;8,5
+2025-08-05;Loja Física;Centro-Oeste;Alimentos;6;188,91;1133,46;795,0;Nenhuma;7,2
+2025-10-04;Loja Física;Sul;Alimentos;3;561,07;1683,21;923,5;Natal;4,5
+2025-09-06;E-commerce;Sul;Beleza;15;2339,74;35096,1;22669,72;Nenhuma;4,1
+2025-06-13;E-commerce;Sul;Beleza;5;1175,97;5879,85;4242,67;Dia das Mães;4,6
+2025-12-23;E-commerce;Sul;Eletrodomésticos;14;1124,56;15743,84;11966,21;Black Friday;6,5
+2025-07-11;App;Sul;Eletrodomésticos;18;56,13;1010,34;694,99;Nenhuma;9,6
+2025-08-15;App;Sul;Eletrodomésticos;16;633,55;10136,8;7103,02;Natal;7,8
+2025-06-26;E-commerce;Sudeste;Beleza;6;2168,41;13010,46;6998,13;Natal;8,8
+2025-04-09;E-commerce;Norte;Beleza;14;428,28;5995,92;4699,2;Black Friday;6,8
+2025-02-05;E-commerce;Centro-Oeste;Beleza;8;1049,51;8396,08;4531,97;Nenhuma;6,2
+2025-04-06;App;Sul;Alimentos;7;55,54;388,78;284,74;Dia das Mães;4,7
+2025-06-01;App;Sudeste;Beleza;8;1206,27;9650,16;5591,74;Black Friday;9,3
+2025-05-31;Loja Física;Sudeste;Alimentos;13;72,13;937,69;731,47;Nenhuma;8,7
+2025-07-09;Loja Física;Sudeste;Eletrodomésticos;6;2052,63;12315,78;8817,95;Aniversário da Loja;5,0
+2025-08-12;E-commerce;Norte;Eletrodomésticos;18;2065,64;37181,52;26999,14;Natal;7,1
+2025-02-06;App;Centro-Oeste;Eletrodomésticos;2;1973,6;3947,2;2233,0;Dia das Mães;6,9
+2025-09-25;App;Norte;Moda;8;722,74;5781,92;3659,45;Dia das Mães;7,8
+2025-07-02;App;Nordeste;Moda;11;2096,35;23059,85;15803,93;Dia das Mães;9,7
+2025-01-13;E-commerce;Sudeste;Tecnologia;1;1366,64;1366,64;999,0;Natal;7,5
+2025-10-06;Loja Física;Nordeste;Tecnologia;6;947,04;5682,24;3018,34;Nenhuma;7,2
+2025-08-05;E-commerce;Sul;Tecnologia;16;1570,82;25133,12;19822,73;Black Friday;4,3
+2025-12-21;Loja Física;Sul;Moda;12;50,61;607,32;465,85;Nenhuma;4,4
+2025-12-27;Loja Física;Norte;Moda;11;374,54;4119,94;2394,12;Black Friday;5,1
+2025-10-13;E-commerce;Centro-Oeste;Tecnologia;10;1860,89;18608,9;13897,65;Dia das Mães;4,2
+2025-09-30;Loja Física;Nordeste;Tecnologia;3;625,52;1876,56;1230,08;Nenhuma;8,5
+2025-03-03;Loja Física;Centro-Oeste;Beleza;13;1503,06;19539,78;12476,97;Dia das Mães;8,3
+2025-03-25;App;Norte;Tecnologia;3;975,05;2925,15;1738,51;Aniversário da Loja;4,8
+2025-08-05;Loja Física;Sul;Beleza;15;2139,92;32098,8;21643,92;Dia das Mães;9,0
+2025-12-08;E-commerce;Centro-Oeste;Alimentos;16;2381,99;38111,84;27401,15;Dia das Mães;4,9
+2025-07-06;E-commerce;Centro-Oeste;Moda;13;2211,24;28746,12;17916,88;Black Friday;5,8
+2025-01-19;Loja Física;Sul;Tecnologia;17;691,14;11749,38;8092,57;Aniversário da Loja;5,5
+2025-06-26;App;Nordeste;Moda;3;501,52;1504,56;1067,93;Dia das Mães;6,2
+2025-04-10;App;Sul;Moda;11;1196,6;13162,6;9389,36;Dia das Mães;5,5
+2025-08-21;Loja Física;Centro-Oeste;Moda;19;38,19;725,61;374,12;Aniversário da Loja;6,9
+2025-03-17;Loja Física;Nordeste;Alimentos;11;84,01;924,11;700,41;Aniversário da Loja;6,4
+2025-09-22;E-commerce;Nordeste;Eletrodomésticos;16;1392,16;22274,56;14199,5;Nenhuma;9,9
+2025-10-11;Loja Física;Sul;Tecnologia;3;1310,71;3932,13;2275,62;Black Friday;4,3
+2025-07-25;App;Centro-Oeste;Eletrodomésticos;6;2486,56;14919,36;8541,77;Aniversário da Loja;4,9
+2025-08-11;Loja Física;Norte;Eletrodomésticos;14;520,57;7287,98;4700,05;Aniversário da Loja;4,3
+2025-02-21;E-commerce;Centro-Oeste;Eletrodomésticos;18;660,1;11881,8;9102,05;Natal;7,8
+2025-12-05;E-commerce;Sudeste;Moda;17;301,58;5126,86;3145,35;Aniversário da Loja;4,3
+2025-05-24;E-commerce;Norte;Beleza;4;2295,51;9182,04;6656,22;Black Friday;9,0
+2025-03-10;E-commerce;Nordeste;Moda;15;1948,97;29234,55;15466,41;Dia das Mães;7,1
+2025-04-09;E-commerce;Norte;Moda;11;2059,4;22653,4;14561,99;Dia das Mães;7,2
+2025-01-25;Loja Física;Nordeste;Eletrodomésticos;3;2258,85;6776,55;5404,34;Dia das Mães;7,4
+2025-02-22;Loja Física;Nordeste;Moda;3;1321,75;3965,25;2899,12;Dia das Mães;5,0
+2025-05-31;Loja Física;Norte;Eletrodomésticos;16;1138,96;18223,36;10262,64;Natal;5,2
+2025-05-24;Loja Física;Nordeste;Beleza;5;839,37;4196,85;2729,77;Aniversário da Loja;5,9
+2025-02-26;E-commerce;Nordeste;Tecnologia;10;1481,25;14812,5;8444,42;Dia das Mães;7,6
+2025-02-08;App;Sudeste;Eletrodomésticos;19;1146,61;21785,59;13569,55;Nenhuma;5,3
+2025-04-19;Loja Física;Centro-Oeste;Beleza;4;1139,88;4559,52;3346,8;Dia das Mães;4,7
+2025-06-30;App;Centro-Oeste;Tecnologia;19;2343,58;44528,02;32566,34;Aniversário da Loja;9,8
+2025-02-11;Loja Física;Sudeste;Alimentos;11;2460,4;27064,4;15384,22;Dia das Mães;4,1
+2025-07-05;Loja Física;Norte;Eletrodomésticos;2;1995,28;3990,56;3099,34;Natal;8,8
+2025-08-11;App;Sul;Eletrodomésticos;10;1896,76;18967,6;12855,68;Black Friday;8,7
+2025-05-02;E-commerce;Sul;Alimentos;11;1707,78;18785,58;11533,92;Black Friday;5,8
+2025-05-13;Loja Física;Sul;Alimentos;16;431,87;6909,92;4495,46;Aniversário da Loja;4,8
+2025-06-12;Loja Física;Sudeste;Eletrodomésticos;19;166,58;3165,02;2157,03;Black Friday;4,9
+2025-08-03;Loja Física;Sudeste;Alimentos;11;1733,0;19063,0;12733,46;Black Friday;8,2
+2025-08-09;App;Nordeste;Moda;14;1827,39;25583,46;16524,91;Nenhuma;7,9
+2025-08-23;E-commerce;Sul;Tecnologia;2;136,49;272,98;177,84;Aniversário da Loja;8,7
+2025-11-27;App;Norte;Tecnologia;5;2321,57;11607,85;6418,25;Aniversário da Loja;9,6
+2025-05-26;App;Norte;Tecnologia;5;246,03;1230,15;915,01;Black Friday;8,2
+2025-08-27;E-commerce;Sul;Moda;19;729,03;13851,57;9177,05;Black Friday;4,9
+2025-03-17;App;Sul;Alimentos;12;1687,53;20250,36;10921,5;Black Friday;5,5
+2025-01-09;E-commerce;Sul;Beleza;18;441,28;7943,04;5797,2;Natal;9,1
+2025-03-15;Loja Física;Sudeste;Alimentos;4;157,43;629,72;491,01;Dia das Mães;5,3
+2025-09-10;E-commerce;Sudeste;Eletrodomésticos;17;841,24;14301,08;11214,79;Natal;4,4
+2025-08-18;Loja Física;Sudeste;Tecnologia;10;1919,61;19196,1;11723,16;Aniversário da Loja;8,2
+2025-01-07;App;Centro-Oeste;Alimentos;6;1045,92;6275,52;3392,89;Nenhuma;6,4
+2025-06-23;App;Norte;Beleza;14;1639,37;22951,18;15044,95;Dia das Mães;9,5
+2025-05-21;Loja Física;Norte;Eletrodomésticos;11;1457,46;16032,06;8557,64;Nenhuma;7,9
+2025-06-17;App;Nordeste;Moda;11;75,1;826,1;644,52;Aniversário da Loja;4,5
+2025-06-19;E-commerce;Sudeste;Moda;18;2471,58;44488,44;24694,37;Aniversário da Loja;9,7
+2025-10-10;Loja Física;Centro-Oeste;Beleza;18;122,74;2209,32;1272,19;Nenhuma;5,6
+2025-05-02;App;Centro-Oeste;Eletrodomésticos;11;2420,15;26621,65;16558,43;Nenhuma;6,0
+2025-07-13;Loja Física;Norte;Tecnologia;12;1383,66;16603,92;10210,57;Nenhuma;6,4
+2025-01-05;E-commerce;Sudeste;Alimentos;5;2408,63;12043,15;8892,65;Aniversário da Loja;4,3
+2025-01-29;E-commerce;Nordeste;Eletrodomésticos;9;304,59;2741,31;1745,93;Black Friday;7,0
+2025-06-14;App;Sudeste;Moda;9;1236,21;11125,89;6132,93;Nenhuma;4,7
+2025-12-05;E-commerce;Sul;Beleza;10;440,37;4403,7;2554,86;Dia das Mães;6,4
+2025-05-16;Loja Física;Sudeste;Beleza;19;146,42;2781,98;1815,89;Aniversário da Loja;6,1
+2025-12-31;E-commerce;Sul;Alimentos;1;1551,47;1551,47;844,37;Natal;8,6
+2025-11-17;Loja Física;Sul;Beleza;7;535,3;3747,1;2561,13;Natal;8,8
+2025-12-08;Loja Física;Nordeste;Beleza;4;1477,49;5909,96;3958,04;Dia das Mães;4,9
+2025-05-25;E-commerce;Norte;Eletrodomésticos;1;298,66;298,66;213,37;Black Friday;6,2
+2025-11-23;App;Sudeste;Tecnologia;15;843,33;12649,95;9883,55;Nenhuma;6,2
+2025-08-05;E-commerce;Sul;Alimentos;8;1958,45;15667,6;12121,65;Aniversário da Loja;4,9
+2025-10-28;Loja Física;Sudeste;Eletrodomésticos;12;1103,89;13246,68;10383,05;Nenhuma;8,8
+2025-05-12;Loja Física;Norte;Tecnologia;18;1576,81;28382,58;16274,99;Aniversário da Loja;8,2
+2025-10-19;E-commerce;Norte;Eletrodomésticos;15;1625,7;24385,5;13155,24;Natal;5,1
+2025-03-11;App;Centro-Oeste;Eletrodomésticos;17;2112,51;35912,67;21213,0;Nenhuma;6,2
+2025-09-09;App;Norte;Beleza;14;825,81;11561,34;8885,19;Dia das Mães;4,6
+2025-10-02;Loja Física;Nordeste;Tecnologia;14;1724,49;24142,86;19111,88;Black Friday;7,8
+2025-12-30;Loja Física;Sul;Alimentos;18;2404,81;43286,58;32802,46;Dia das Mães;4,7
+2025-07-01;App;Centro-Oeste;Alimentos;18;1831,0;32958,0;17566,79;Black Friday;9,9
+2025-06-16;E-commerce;Nordeste;Tecnologia;16;1234,88;19758,08;15494,85;Nenhuma;8,7
+2025-04-01;Loja Física;Sudeste;Beleza;1;1584,18;1584,18;993,29;Nenhuma;6,3
+2025-07-21;Loja Física;Sul;Moda;11;1854,41;20398,51;10256,23;Black Friday;7,5
+2025-12-12;App;Norte;Eletrodomésticos;15;1538,44;23076,6;14600,98;Natal;9,5
+2025-01-19;E-commerce;Sul;Beleza;12;61,36;736,32;378,34;Aniversário da Loja;7,3
+2025-02-08;App;Sudeste;Tecnologia;8;503,04;4024,32;2668,78;Dia das Mães;5,0
+2025-05-06;E-commerce;Centro-Oeste;Eletrodomésticos;6;2029,96;12179,76;7326,93;Dia das Mães;6,3
+2025-06-22;E-commerce;Centro-Oeste;Alimentos;3;696,17;2088,51;1340,89;Dia das Mães;9,1
+2025-05-21;E-commerce;Centro-Oeste;Moda;13;1834,27;23845,51;16309,16;Nenhuma;7,9
+2025-08-30;Loja Física;Norte;Alimentos;13;942,86;12257,18;9323,31;Dia das Mães;7,9
+2025-08-08;App;Nordeste;Tecnologia;2;1314,27;2628,54;1836,22;Aniversário da Loja;9,2
+2025-05-06;App;Nordeste;Eletrodomésticos;5;188,57;942,85;594,2;Aniversário da Loja;9,4
+2025-02-27;E-commerce;Sul;Tecnologia;17;469,44;7980,48;5952,07;Black Friday;9,5
+2025-05-28;Loja Física;Norte;Eletrodomésticos;6;2393,85;14363,1;11083,64;Nenhuma;4,6
+2025-11-13;Loja Física;Centro-Oeste;Beleza;2;2227,54;4455,08;2387,6;Aniversário da Loja;7,3
+2025-12-27;App;Centro-Oeste;Moda;4;1637,64;6550,56;4320,62;Natal;8,4
+2025-01-01;Loja Física;Sudeste;Beleza;11;1159,92;12759,12;7468,6;Nenhuma;8,5
+2025-12-14;Loja Física;Sudeste;Beleza;8;1695,89;13567,12;6975,11;Nenhuma;7,6
+2025-07-09;E-commerce;Centro-Oeste;Tecnologia;12;1554,15;18649,8;13065,38;Aniversário da Loja;5,0
+2025-07-10;Loja Física;Centro-Oeste;Moda;8;1430,01;11440,08;8681,09;Natal;8,8
+2025-11-08;E-commerce;Norte;Eletrodomésticos;11;166,76;1834,36;1006,83;Black Friday;8,3
+2025-04-27;App;Nordeste;Eletrodomésticos;8;1589,35;12714,8;9456,3;Aniversário da Loja;4,5
+2025-05-14;Loja Física;Sudeste;Alimentos;8;1926,92;15415,36;11654,3;Natal;6,8
+2025-02-27;App;Nordeste;Eletrodomésticos;17;2485,32;42250,44;32714,61;Nenhuma;5,0
+2025-02-13;App;Norte;Tecnologia;16;47,47;759,52;440,21;Natal;6,0
+2025-06-22;Loja Física;Centro-Oeste;Beleza;14;1830,83;25631,62;19766,74;Nenhuma;4,1
+2025-06-09;Loja Física;Nordeste;Beleza;11;1438,04;15818,44;9430,94;Aniversário da Loja;6,4
+2025-06-22;App;Centro-Oeste;Beleza;7;1096,45;7675,15;5109,36;Aniversário da Loja;7,3
+2025-11-13;Loja Física;Centro-Oeste;Moda;16;336,37;5381,92;2772,51;Dia das Mães;7,7
+2025-10-30;E-commerce;Sul;Eletrodomésticos;13;1034,53;13448,89;6901,49;Dia das Mães;8,0
+2025-05-29;E-commerce;Nordeste;Tecnologia;15;898,86;13482,9;9655,27;Dia das Mães;9,0
+2025-03-21;Loja Física;Nordeste;Moda;16;771,02;12336,32;7813,13;Aniversário da Loja;5,3
+2025-08-01;App;Centro-Oeste;Alimentos;9;1832,58;16493,22;9514,74;Black Friday;4,7
+2025-07-22;Loja Física;Norte;Tecnologia;3;1757,8;5273,4;2937,94;Aniversário da Loja;9,1
+2025-09-09;Loja Física;Sul;Tecnologia;19;1480,77;28134,63;19721,98;Natal;4,9
+2025-08-17;App;Centro-Oeste;Tecnologia;5;2347,89;11739,45;5871,14;Aniversário da Loja;9,8
+2025-06-13;App;Sudeste;Beleza;10;887,64;8876,4;6584,22;Aniversário da Loja;9,1
+2025-08-15;E-commerce;Sudeste;Tecnologia;17;624,63;10618,71;5561,81;Nenhuma;7,0
+2025-05-27;App;Sul;Eletrodomésticos;15;1646,64;24699,6;13768,72;Nenhuma;9,9
+2025-01-20;E-commerce;Norte;Tecnologia;8;513,06;4104,48;2527,83;Nenhuma;4,6
+2025-02-16;App;Centro-Oeste;Beleza;15;801,23;12018,45;7757,4;Aniversário da Loja;5,8
+2025-08-21;Loja Física;Nordeste;Tecnologia;14;577,01;8078,14;4899,38;Black Friday;7,8
+2025-11-01;E-commerce;Sul;Alimentos;7;191,5;1340,5;799,22;Natal;6,1
+2025-01-14;E-commerce;Norte;Alimentos;12;2072,2;24866,4;19623,94;Natal;9,6
+2025-05-23;E-commerce;Nordeste;Beleza;17;651,26;11071,42;7666,67;Black Friday;4,4
+2025-01-01;Loja Física;Sudeste;Eletrodomésticos;17;1193,11;20282,87;10284,02;Black Friday;7,3
+2025-02-23;Loja Física;Sudeste;Eletrodomésticos;10;127,42;1274,2;801,54;Natal;7,5
+2025-09-16;Loja Física;Nordeste;Moda;19;1754,36;33332,84;25416,38;Dia das Mães;7,9
+2025-05-24;Loja Física;Sul;Beleza;14;839,79;11757,06;6941,8;Nenhuma;5,5
+2025-01-12;Loja Física;Sudeste;Tecnologia;11;1866,95;20536,45;10850,78;Nenhuma;6,2
+2025-11-26;E-commerce;Centro-Oeste;Beleza;2;1042,76;2085,52;1517,25;Natal;9,1
+2025-08-12;Loja Física;Nordeste;Moda;18;505,47;9098,46;6203,37;Black Friday;5,2
+2025-09-29;E-commerce;Nordeste;Beleza;7;1292,67;9048,69;6072,52;Dia das Mães;9,0
+2025-12-24;Loja Física;Sudeste;Beleza;12;343,65;4123,8;2128,18;Natal;7,4
+2025-06-05;App;Sul;Moda;2;1112,54;2225,08;1206,33;Nenhuma;8,6
+2025-01-08;E-commerce;Centro-Oeste;Eletrodomésticos;18;806,92;14524,56;9974,96;Aniversário da Loja;8,3
+2025-05-02;App;Sul;Tecnologia;6;2281,66;13689,96;7698,51;Black Friday;5,2
+2025-12-14;E-commerce;Norte;Moda;10;171,1;1711,0;1114,24;Aniversário da Loja;7,4
+2025-06-13;App;Norte;Alimentos;15;1741,16;26117,4;17327,97;Natal;9,2
+2025-03-31;Loja Física;Sudeste;Eletrodomésticos;5;473,22;2366,1;1384,29;Nenhuma;6,6
+2025-05-16;Loja Física;Sudeste;Alimentos;3;811,23;2433,69;1909,3;Dia das Mães;9,8
+2025-07-05;Loja Física;Sudeste;Eletrodomésticos;5;1050,47;5252,35;3953,65;Aniversário da Loja;6,7
+2025-11-12;E-commerce;Norte;Tecnologia;8;2271,88;18175,04;13026,27;Dia das Mães;4,9
+2025-06-27;App;Sul;Tecnologia;8;621,59;4972,72;2602,71;Nenhuma;6,3
+2025-01-28;Loja Física;Sul;Beleza;8;246,45;1971,6;1048,57;Aniversário da Loja;9,7
+2025-08-08;App;Sudeste;Alimentos;12;810,35;9724,2;6299,67;Dia das Mães;5,9
+2025-12-23;App;Centro-Oeste;Eletrodomésticos;8;279,6;2236,8;1226,25;Dia das Mães;9,2
+2025-02-10;Loja Física;Sul;Tecnologia;11;338,92;3728,12;2958,19;Aniversário da Loja;9,3
+2025-08-16;Loja Física;Norte;Moda;14;1443,15;20204,1;11062,88;Nenhuma;6,1
+2025-07-11;App;Nordeste;Tecnologia;8;171,04;1368,32;884,26;Dia das Mães;4,5
+2025-05-25;Loja Física;Nordeste;Moda;10;96,71;967,1;589,19;Natal;8,3
+2025-07-20;Loja Física;Nordeste;Eletrodomésticos;7;1791,75;12542,25;8676,93;Aniversário da Loja;5,9
+2025-07-31;Loja Física;Centro-Oeste;Tecnologia;17;916,88;15586,96;8396,87;Black Friday;8,7
+2025-08-08;E-commerce;Sudeste;Tecnologia;4;330,93;1323,72;832,75;Black Friday;6,7
+2025-08-28;App;Norte;Eletrodomésticos;13;648,96;8436,48;4913,5;Nenhuma;6,9
+2025-02-15;App;Centro-Oeste;Tecnologia;4;1612,37;6449,48;4942,4;Natal;8,7
+2025-02-04;E-commerce;Norte;Moda;5;703,33;3516,65;1801,14;Dia das Mães;6,3
+2025-09-10;App;Norte;Tecnologia;4;1246,41;4985,64;3859,47;Black Friday;6,7
+2025-03-23;Loja Física;Sudeste;Alimentos;18;321,8;5792,4;4343,71;Nenhuma;6,3
+2025-09-13;App;Nordeste;Beleza;6;1478,47;8870,82;5227,32;Natal;6,2
+2025-07-16;Loja Física;Sudeste;Moda;2;803,87;1607,74;1184,56;Natal;7,2
+2025-10-30;E-commerce;Centro-Oeste;Alimentos;11;1574,88;17323,68;8824,06;Nenhuma;8,9
+2025-01-10;Loja Física;Centro-Oeste;Eletrodomésticos;14;2024,82;28347,48;22396,2;Nenhuma;6,2
+2025-11-08;App;Centro-Oeste;Moda;5;1536,88;7684,4;5056,17;Dia das Mães;7,1
+2025-10-13;App;Sudeste;Beleza;6;753,45;4520,7;2671,66;Nenhuma;8,0
+2025-08-30;App;Norte;Beleza;10;654,24;6542,4;3982,85;Dia das Mães;5,6
+2025-09-08;E-commerce;Norte;Eletrodomésticos;8;832,0;6656,0;3460,6;Dia das Mães;5,7
+2025-12-31;E-commerce;Sul;Eletrodomésticos;14;428,26;5995,64;4777,36;Aniversário da Loja;9,6
+2025-01-05;App;Centro-Oeste;Moda;3;469,31;1407,93;720,56;Natal;8,3
+2025-04-29;Loja Física;Norte;Tecnologia;12;1980,91;23770,92;16555,78;Natal;7,5
+2025-10-16;E-commerce;Sul;Eletrodomésticos;16;974,14;15586,24;9863,3;Natal;7,9
+2025-03-06;App;Norte;Tecnologia;17;1101,27;18721,59;14690,36;Aniversário da Loja;4,2
+2025-05-26;App;Centro-Oeste;Alimentos;1;1493,24;1493,24;856,82;Dia das Mães;7,7
+2025-08-12;E-commerce;Nordeste;Beleza;10;1482,34;14823,4;9777,9;Dia das Mães;7,1
+2025-08-27;E-commerce;Centro-Oeste;Tecnologia;10;187,09;1870,9;1206,18;Nenhuma;7,3
+2025-06-26;E-commerce;Sudeste;Beleza;2;2082,22;4164,44;2960,33;Aniversário da Loja;6,2
+2025-09-24;Loja Física;Norte;Tecnologia;9;459,77;4137,93;2153,39;Nenhuma;4,5
+2025-12-07;Loja Física;Norte;Alimentos;13;1813,22;23571,86;13156,32;Aniversário da Loja;5,2
+2025-10-09;App;Sudeste;Eletrodomésticos;16;1936,22;30979,52;17483,89;Nenhuma;9,7
+2025-03-04;E-commerce;Sudeste;Alimentos;18;1792,95;32273,1;23283,27;Black Friday;6,5
+2025-08-05;Loja Física;Nordeste;Eletrodomésticos;19;1455,86;27661,34;15400,22;Natal;6,8
+2025-12-08;E-commerce;Norte;Eletrodomésticos;12;56,23;674,76;453,47;Natal;4,3
+2025-11-11;App;Norte;Beleza;8;913,73;7309,84;4126,94;Dia das Mães;4,2
+2025-10-10;Loja Física;Nordeste;Alimentos;17;1520,0;25840,0;19599,32;Black Friday;8,3
+2025-06-26;Loja Física;Sul;Tecnologia;15;980,88;14713,2;11515,37;Natal;7,2
+2025-04-08;Loja Física;Nordeste;Alimentos;10;2161,43;21614,3;14169,21;Dia das Mães;7,1
+2025-04-15;App;Centro-Oeste;Beleza;15;785,83;11787,45;7139,57;Black Friday;5,5
+2025-04-09;E-commerce;Norte;Eletrodomésticos;15;747,97;11219,55;6397,58;Natal;8,5
+2025-11-07;Loja Física;Sudeste;Beleza;7;679,67;4757,69;2449,9;Nenhuma;5,0
+2025-01-06;App;Centro-Oeste;Moda;13;845,3;10988,9;6379,61;Aniversário da Loja;5,1
+2025-07-16;E-commerce;Norte;Moda;17;1402,36;23840,12;16599,18;Black Friday;6,8
+2025-12-17;App;Nordeste;Tecnologia;9;1773,4;15960,6;10535,35;Dia das Mães;5,7
+2025-05-13;E-commerce;Centro-Oeste;Beleza;8;1663,17;13305,36;10420,92;Black Friday;5,5
+2025-12-24;App;Norte;Tecnologia;18;2023,14;36416,52;22537,57;Dia das Mães;7,9
+2025-09-16;E-commerce;Sul;Tecnologia;13;2217,07;28821,91;20410,5;Black Friday;7,9
+2025-01-23;Loja Física;Sul;Moda;16;2043,88;32702,08;21151,6;Dia das Mães;8,9
+2025-02-22;E-commerce;Sudeste;Tecnologia;9;66,98;602,82;394,11;Natal;6,5
+2025-06-14;App;Norte;Moda;12;1845,08;22140,96;12849,11;Nenhuma;4,4
+2025-07-21;App;Sul;Eletrodomésticos;12;536,83;6441,96;4100,21;Natal;5,6
+2025-03-24;E-commerce;Nordeste;Beleza;6;349,66;2097,96;1345,29;Nenhuma;9,9
+2025-05-25;Loja Física;Norte;Tecnologia;19;1603,45;30465,55;21691,25;Natal;7,6
+2025-03-26;Loja Física;Nordeste;Moda;7;812,96;5690,72;4451,24;Natal;8,3
+2025-03-19;E-commerce;Nordeste;Alimentos;3;161,65;484,95;290,39;Black Friday;4,0
+2025-01-01;E-commerce;Sul;Tecnologia;16;361,32;5781,12;2963,75;Aniversário da Loja;7,1
+2025-02-20;App;Norte;Eletrodomésticos;18;22,3;401,4;260,46;Dia das Mães;4,2
+2025-06-22;Loja Física;Centro-Oeste;Eletrodomésticos;16;2259,99;36159,84;23986,21;Dia das Mães;7,4
+2025-07-24;E-commerce;Sul;Alimentos;7;81,05;567,35;312,34;Dia das Mães;9,5
+2025-09-17;Loja Física;Sul;Moda;4;539,45;2157,8;1571,18;Nenhuma;9,8
+2025-10-15;E-commerce;Norte;Tecnologia;8;1052,33;8418,64;6696,85;Dia das Mães;7,2
+2025-02-03;E-commerce;Norte;Moda;13;904,3;11755,9;9213,48;Dia das Mães;6,7
+2025-12-14;Loja Física;Nordeste;Eletrodomésticos;13;2281,08;29654,04;16580,52;Black Friday;9,7
+2025-04-05;E-commerce;Norte;Moda;17;119,92;2038,64;1554,69;Natal;8,0
+2025-03-13;E-commerce;Nordeste;Eletrodomésticos;17;1290,29;21934,93;15603,37;Dia das Mães;4,4
+2025-02-08;App;Sul;Moda;5;1707,59;8537,95;5431,45;Aniversário da Loja;6,8
+2025-06-03;E-commerce;Sudeste;Alimentos;6;2330,61;13983,66;9259,75;Dia das Mães;5,4
+2025-09-07;E-commerce;Centro-Oeste;Beleza;19;1558,52;29611,88;22353,42;Nenhuma;6,8
+2025-06-11;E-commerce;Sul;Alimentos;13;2013,31;26173,03;16856,49;Nenhuma;6,7
+2025-04-28;App;Norte;Alimentos;14;227,64;3186,96;1950,3;Nenhuma;7,5
+2025-09-16;Loja Física;Centro-Oeste;Beleza;4;977,13;3908,52;2532,62;Dia das Mães;6,1
+2025-11-02;App;Sudeste;Beleza;7;947,39;6631,73;4468,05;Black Friday;5,0
+2025-09-25;App;Sudeste;Tecnologia;8;2217,99;17743,92;9878,45;Aniversário da Loja;7,0
+2025-02-23;Loja Física;Nordeste;Tecnologia;13;395,4;5140,2;3959,35;Dia das Mães;9,0
+2025-08-24;App;Centro-Oeste;Alimentos;6;396,68;2380,08;1671,43;Black Friday;8,0
+2025-08-10;Loja Física;Nordeste;Alimentos;6;834,82;5008,92;3456,06;Black Friday;6,0
+2025-09-08;App;Sul;Eletrodomésticos;3;155,08;465,24;246,51;Dia das Mães;9,6
+2025-11-09;Loja Física;Centro-Oeste;Eletrodomésticos;3;472,5;1417,5;965,67;Dia das Mães;9,5
+2025-04-22;E-commerce;Sul;Tecnologia;13;2413,72;31378,36;16827,84;Black Friday;5,3
+2025-09-12;App;Nordeste;Tecnologia;2;1081,9;2163,8;1132,99;Black Friday;4,2
+2025-10-30;App;Centro-Oeste;Eletrodomésticos;16;1587,41;25398,56;16717,16;Black Friday;8,4
+2025-07-26;App;Nordeste;Eletrodomésticos;6;1820,76;10924,56;6782,36;Dia das Mães;9,0
+2025-08-17;App;Centro-Oeste;Moda;8;930,06;7440,48;5034,55;Black Friday;9,8
+2025-12-07;E-commerce;Nordeste;Moda;8;385,12;3080,96;1622,95;Nenhuma;9,3
+2025-03-07;App;Sudeste;Eletrodomésticos;6;532,32;3193,92;2009,92;Dia das Mães;7,6
+2025-03-16;E-commerce;Nordeste;Moda;14;796,9;11156,6;6163,31;Nenhuma;7,2
+2025-04-13;E-commerce;Sudeste;Beleza;3;1597,45;4792,35;3815,33;Natal;4,2
+2025-07-11;E-commerce;Nordeste;Tecnologia;10;1007,74;10077,4;6735,18;Dia das Mães;5,5
+2025-09-09;E-commerce;Centro-Oeste;Tecnologia;3;36,9;110,7;78,18;Natal;6,8
+2025-08-14;Loja Física;Centro-Oeste;Eletrodomésticos;12;1318,05;15816,6;9452,4;Black Friday;7,8
+2025-10-21;Loja Física;Centro-Oeste;Alimentos;17;2305,35;39190,95;20709,35;Black Friday;7,3
+2025-11-02;App;Norte;Eletrodomésticos;5;2033,95;10169,75;8062,18;Aniversário da Loja;8,5
+2025-04-08;Loja Física;Sul;Moda;9;2066,52;18598,68;10896,55;Black Friday;5,7
+2025-12-04;Loja Física;Centro-Oeste;Alimentos;7;1991,74;13942,18;8743,73;Natal;7,4
+2025-10-13;App;Sudeste;Moda;4;822,85;3291,4;2287,39;Black Friday;4,5
+2025-12-01;App;Centro-Oeste;Beleza;13;1917,68;24929,84;12649,63;Dia das Mães;6,5
+2025-12-13;App;Norte;Moda;13;375,04;4875,52;3622,89;Black Friday;8,5
+2025-11-04;Loja Física;Sudeste;Beleza;10;1651,14;16511,4;10913,6;Aniversário da Loja;8,2
+2025-09-06;Loja Física;Norte;Beleza;18;1611,09;28999,62;16920,27;Black Friday;9,9
+2025-06-15;App;Sudeste;Moda;17;83,41;1417,97;735,19;Natal;5,7
+2025-12-01;E-commerce;Nordeste;Moda;13;1974,17;25664,21;14083,22;Natal;7,0
+2025-01-30;App;Sul;Beleza;17;2260,06;38421,02;29526,94;Black Friday;6,0
+2025-09-04;E-commerce;Sul;Alimentos;4;683,19;2732,76;1928,8;Natal;6,6
+2025-04-16;E-commerce;Norte;Beleza;1;2034,73;2034,73;1169,91;Natal;9,1
+2025-02-20;App;Sul;Tecnologia;1;224,37;224,37;116,6;Aniversário da Loja;8,1
+2025-03-22;App;Norte;Beleza;15;1507,92;22618,8;15995,67;Dia das Mães;9,3
+2025-05-13;App;Norte;Alimentos;13;1224,4;15917,2;10691,94;Aniversário da Loja;5,2
+2025-10-12;Loja Física;Norte;Tecnologia;17;1373,89;23356,13;14512,47;Nenhuma;9,2
+2025-05-18;E-commerce;Sul;Eletrodomésticos;8;2316,99;18535,92;11289,92;Aniversário da Loja;4,4
+2025-07-03;Loja Física;Norte;Eletrodomésticos;18;2180,86;39255,48;22181,08;Black Friday;9,3
+2025-11-26;Loja Física;Sul;Alimentos;13;1967,01;25571,13;17922,38;Dia das Mães;6,0
+2025-09-30;App;Norte;Beleza;14;698,77;9782,78;7740,14;Black Friday;5,9
+2025-12-06;Loja Física;Centro-Oeste;Moda;8;2281,31;18250,48;10087,31;Nenhuma;7,1
+2025-03-10;App;Norte;Alimentos;8;261,82;2094,56;1422,49;Dia das Mães;9,6
+2025-02-03;E-commerce;Sudeste;Tecnologia;15;2136,26;32043,9;20099,71;Natal;4,3
+2025-09-19;App;Norte;Tecnologia;13;833,84;10839,92;6872,58;Aniversário da Loja;6,1
+2025-02-22;Loja Física;Nordeste;Eletrodomésticos;7;153,36;1073,52;618,61;Black Friday;9,1
+2025-07-24;Loja Física;Norte;Tecnologia;5;1680,01;8400,05;6279,38;Nenhuma;6,4
+2025-05-06;App;Sudeste;Alimentos;17;593,57;10090,69;6514,31;Natal;5,2
+2025-08-23;App;Sudeste;Tecnologia;16;624,06;9984,96;6620,25;Aniversário da Loja;6,5
+2025-02-12;Loja Física;Sul;Alimentos;2;779,0;1558,0;921,45;Natal;6,3
+2025-08-28;E-commerce;Centro-Oeste;Moda;18;177,94;3202,92;1776,16;Aniversário da Loja;9,5
+2025-04-21;E-commerce;Norte;Eletrodomésticos;17;459,28;7807,76;4105,11;Dia das Mães;8,6
+2025-09-06;App;Sul;Tecnologia;7;32,75;229,25;163,74;Natal;7,0
+2025-05-31;E-commerce;Centro-Oeste;Alimentos;13;1124,62;14620,06;8170,72;Natal;9,9
+2025-07-02;Loja Física;Norte;Beleza;18;228,95;4121,1;2913,71;Natal;6,8
+2025-12-02;App;Nordeste;Eletrodomésticos;14;1712,98;23981,72;14799,43;Dia das Mães;4,3
+2025-04-05;Loja Física;Norte;Moda;18;604,34;10878,12;6795,91;Nenhuma;5,6
+2025-01-08;Loja Física;Sudeste;Alimentos;13;2360,06;30680,78;19658,81;Aniversário da Loja;6,6
+2025-12-26;E-commerce;Sudeste;Moda;11;2180,7;23987,7;14639,99;Natal;4,9
+2025-07-03;App;Nordeste;Moda;16;737,81;11804,96;6258,82;Dia das Mães;9,7
+2025-10-08;App;Sul;Tecnologia;17;1962,37;33360,29;19778,97;Nenhuma;8,6
+2025-07-14;E-commerce;Centro-Oeste;Tecnologia;8;2012,05;16096,4;11253,32;Aniversário da Loja;5,6
+2025-12-18;Loja Física;Norte;Alimentos;19;2466,68;46866,92;32794,44;Dia das Mães;7,5
+2025-07-14;Loja Física;Sudeste;Beleza;15;1502,64;22539,6;13205,21;Aniversário da Loja;8,3
+2025-06-04;Loja Física;Sul;Alimentos;9;223,28;2009,52;1282,14;Natal;9,6
+2025-04-03;Loja Física;Nordeste;Beleza;10;1624,16;16241,6;9063,37;Nenhuma;9,3
+2025-06-09;App;Sudeste;Moda;12;1569,95;18839,4;10608,69;Dia das Mães;7,1
+2025-03-02;App;Nordeste;Eletrodomésticos;1;1603,11;1603,11;812,64;Nenhuma;8,6
+2025-05-02;E-commerce;Norte;Alimentos;9;781,72;7035,48;5410,45;Natal;7,4
+2025-02-20;E-commerce;Centro-Oeste;Alimentos;15;2152,01;32280,15;18180,57;Nenhuma;7,3
+2025-10-04;App;Sudeste;Beleza;1;2399,49;2399,49;1363,53;Nenhuma;4,7
+2025-01-05;App;Sudeste;Moda;12;559,93;6719,16;3923,19;Black Friday;4,8
+2025-04-02;Loja Física;Norte;Moda;3;238,62;715,86;385,29;Nenhuma;7,2
+2025-06-19;Loja Física;Sul;Beleza;11;502,45;5526,95;3823,43;Aniversário da Loja;5,6
+2025-11-13;E-commerce;Centro-Oeste;Moda;2;2054,97;4109,94;2147,62;Dia das Mães;4,1
+2025-01-22;App;Sudeste;Tecnologia;16;1698,08;27169,28;14678,49;Black Friday;8,3
+2025-11-22;E-commerce;Centro-Oeste;Eletrodomésticos;9;1597,4;14376,6;9969,12;Dia das Mães;4,2
+2025-01-01;App;Sudeste;Alimentos;15;1016,45;15246,75;9176,99;Dia das Mães;7,6
+2025-05-13;Loja Física;Centro-Oeste;Eletrodomésticos;12;1453,01;17436,12;12421,22;Natal;7,2
+2025-08-21;E-commerce;Nordeste;Alimentos;1;783,53;783,53;522,79;Natal;9,8
+2025-01-12;E-commerce;Sudeste;Tecnologia;13;1203,46;15644,98;9024,12;Black Friday;6,9
+2025-12-12;App;Centro-Oeste;Moda;14;1986,8;27815,2;19338,47;Natal;4,4
+2025-02-15;Loja Física;Sul;Beleza;8;2453,48;19627,84;10498,58;Natal;7,3
+2025-02-03;E-commerce;Nordeste;Tecnologia;8;2332,57;18660,56;12333,2;Natal;9,0
+2025-03-19;Loja Física;Nordeste;Eletrodomésticos;12;2335,99;28031,88;17692,16;Dia das Mães;10,0
+2025-08-06;E-commerce;Sul;Beleza;1;1017,51;1017,51;590,52;Black Friday;6,6
+2025-10-28;Loja Física;Centro-Oeste;Moda;11;1182,6;13008,6;8861,48;Dia das Mães;5,9
+2025-03-14;App;Norte;Tecnologia;8;1769,98;14159,84;10781,3;Aniversário da Loja;9,4
+2025-10-09;E-commerce;Sul;Beleza;10;2307,04;23070,4;18448,74;Dia das Mães;5,1
+2025-09-06;E-commerce;Centro-Oeste;Tecnologia;19;372,15;7070,85;4824,64;Aniversário da Loja;7,7
+2025-02-16;Loja Física;Sul;Tecnologia;11;774,52;8519,72;5294,25;Nenhuma;6,4
+2025-05-01;Loja Física;Sul;Moda;7;365,33;2557,31;1451,43;Nenhuma;4,2
+2025-08-02;E-commerce;Sudeste;Alimentos;11;1537,78;16915,58;9762,47;Aniversário da Loja;6,1
+2025-08-27;App;Centro-Oeste;Beleza;17;779,63;13253,71;8533,22;Aniversário da Loja;5,6
+2025-02-25;Loja Física;Norte;Moda;1;828,75;828,75;505,69;Dia das Mães;8,1
+2025-12-16;Loja Física;Sudeste;Tecnologia;8;195,87;1566,96;1213,05;Aniversário da Loja;9,7
+2025-04-17;Loja Física;Sul;Moda;6;887,49;5324,94;3250,82;Black Friday;5,6
+2025-11-15;E-commerce;Sul;Alimentos;18;2158,99;38861,82;23784,73;Nenhuma;8,9
+2025-02-17;E-commerce;Sul;Beleza;6;598,02;3588,12;2206,91;Nenhuma;4,3
+2025-03-02;E-commerce;Centro-Oeste;Alimentos;5;1744,06;8720,3;6548,82;Aniversário da Loja;7,2
+2025-12-03;E-commerce;Centro-Oeste;Eletrodomésticos;13;1581,48;20559,24;14293,53;Natal;4,4
+2025-01-26;App;Sudeste;Beleza;19;2161,44;41067,36;28100,37;Natal;9,6
+2025-10-19;App;Norte;Alimentos;8;348,07;2784,56;1671,41;Aniversário da Loja;8,6
+2025-09-14;E-commerce;Sudeste;Tecnologia;9;2444,42;21999,78;16398,0;Black Friday;7,9
+2025-01-08;App;Nordeste;Beleza;17;1464,92;24903,64;12738,44;Natal;8,9
+2025-04-23;Loja Física;Sul;Beleza;3;2488,78;7466,34;5683,67;Aniversário da Loja;7,9
+2025-12-21;Loja Física;Sul;Moda;19;2280,56;43330,64;28330,65;Black Friday;9,8
+2025-09-10;Loja Física;Sul;Tecnologia;11;569,36;6262,96;3879,75;Black Friday;8,3
+2025-06-29;E-commerce;Sudeste;Eletrodomésticos;17;159,28;2707,76;1757,74;Dia das Mães;9,5
+2025-07-26;Loja Física;Sudeste;Alimentos;19;653,98;12425,62;8700,73;Black Friday;7,1
+2025-10-30;App;Sul;Moda;2;1328,36;2656,72;1338,53;Natal;4,7
+2025-05-07;E-commerce;Sudeste;Alimentos;8;445,56;3564,48;2714,23;Natal;7,2
+2025-02-25;App;Centro-Oeste;Eletrodomésticos;19;435,3;8270,7;5243,8;Aniversário da Loja;4,8
+2025-08-02;Loja Física;Centro-Oeste;Eletrodomésticos;7;1167,23;8170,61;4925,98;Aniversário da Loja;7,6
+2025-01-14;Loja Física;Sudeste;Beleza;17;102,5;1742,5;943,52;Black Friday;6,9
+2025-01-28;Loja Física;Sul;Eletrodomésticos;6;322,28;1933,68;1221,78;Nenhuma;7,7
+2025-03-19;E-commerce;Sudeste;Alimentos;19;1051,34;19975,46;12962,01;Dia das Mães;4,1
+2025-08-04;App;Sudeste;Tecnologia;6;176,56;1059,36;657,96;Nenhuma;5,2
+2025-12-31;E-commerce;Sudeste;Tecnologia;2;1003,95;2007,9;1412,75;Black Friday;6,9
+2025-06-03;E-commerce;Nordeste;Beleza;6;1195,54;7173,24;4492,38;Black Friday;9,7
+2025-01-14;Loja Física;Centro-Oeste;Alimentos;5;1139,14;5695,7;4490,63;Nenhuma;6,3
+2025-07-06;E-commerce;Norte;Alimentos;19;2175,55;41335,45;28099,15;Dia das Mães;6,5
+2025-11-08;E-commerce;Norte;Eletrodomésticos;4;1334,55;5338,2;3962,24;Nenhuma;8,3
+2025-01-07;Loja Física;Nordeste;Alimentos;17;1180,59;20070,03;10693,45;Aniversário da Loja;7,6
+2025-01-03;E-commerce;Sudeste;Moda;11;1038,56;11424,16;7073,7;Natal;5,8
+2025-04-21;Loja Física;Nordeste;Eletrodomésticos;4;2047,71;8190,84;4923,14;Aniversário da Loja;6,5
+2025-08-26;Loja Física;Nordeste;Moda;13;2239,74;29116,62;19532,73;Natal;5,3
+2025-12-29;Loja Física;Sul;Beleza;17;2136,04;36312,68;27537,14;Black Friday;9,8
+2025-08-27;Loja Física;Centro-Oeste;Tecnologia;9;1690,4;15213,6;7964,34;Dia das Mães;4,8
+2025-10-01;E-commerce;Norte;Beleza;4;360,66;1442,64;752,73;Nenhuma;6,2
+2025-10-21;Loja Física;Sudeste;Tecnologia;14;706,64;9892,96;7470,13;Dia das Mães;4,2
+2025-08-15;Loja Física;Norte;Beleza;19;134,24;2550,56;1438,15;Nenhuma;5,3
+2025-01-15;E-commerce;Norte;Alimentos;3;2328,44;6985,32;4894,1;Aniversário da Loja;8,7
+2025-07-11;E-commerce;Centro-Oeste;Moda;14;1658,78;23222,92;15393,62;Aniversário da Loja;5,2
+2025-04-29;App;Norte;Tecnologia;8;1870,98;14967,84;11223,91;Nenhuma;4,5
+2025-01-28;E-commerce;Norte;Eletrodomésticos;1;792,7;792,7;426,1;Dia das Mães;6,8
+2025-07-21;E-commerce;Nordeste;Moda;10;2117,22;21172,2;11410,44;Nenhuma;4,1
+2025-02-08;App;Centro-Oeste;Eletrodomésticos;18;663,82;11948,76;7970,37;Black Friday;4,5
+2025-09-30;E-commerce;Sul;Moda;16;24,08;385,28;302,03;Aniversário da Loja;8,8
+2025-08-19;E-commerce;Sudeste;Moda;8;953,51;7628,08;4763,73;Black Friday;8,6
+2025-03-27;E-commerce;Norte;Beleza;1;1435,49;1435,49;858,54;Aniversário da Loja;9,5
+2025-05-06;E-commerce;Sudeste;Tecnologia;12;1207,19;14486,28;9879,74;Aniversário da Loja;9,1
+2025-10-27;App;Sul;Tecnologia;8;2157,95;17263,6;13450,67;Natal;8,1
+2025-01-25;E-commerce;Sudeste;Moda;16;281,41;4502,56;3381,78;Black Friday;4,3
+2025-05-25;E-commerce;Sul;Alimentos;18;1393,48;25082,64;20032,13;Black Friday;8,7
+2025-01-13;App;Nordeste;Alimentos;4;1292,19;5168,76;2619,38;Natal;9,1
+2025-07-31;Loja Física;Norte;Eletrodomésticos;6;717,85;4307,1;2299,38;Dia das Mães;8,8
+2025-01-25;App;Sul;Eletrodomésticos;12;2059,13;24709,56;16872,68;Black Friday;7,1
+2025-03-09;Loja Física;Sudeste;Beleza;9;1887,06;16983,54;12672,66;Nenhuma;5,4
+2025-03-08;App;Norte;Moda;15;1837,49;27562,35;16139,78;Natal;9,1
+2025-08-21;App;Nordeste;Eletrodomésticos;16;2192,96;35087,36;20061,67;Black Friday;8,4
+2025-04-19;E-commerce;Norte;Eletrodomésticos;12;1812,51;21750,12;16010,11;Dia das Mães;9,9
+2025-05-26;Loja Física;Sul;Moda;14;594,97;8329,58;4305,68;Black Friday;4,9
+2025-04-21;E-commerce;Nordeste;Beleza;13;1769,8;23007,4;14053,26;Aniversário da Loja;5,4
+2025-08-16;Loja Física;Sudeste;Eletrodomésticos;2;783,1;1566,2;1020,76;Nenhuma;5,3
+2025-04-21;App;Nordeste;Beleza;3;620,59;1861,77;1243,86;Natal;8,8
+2025-02-03;App;Nordeste;Tecnologia;10;201,05;2010,5;1444,71;Aniversário da Loja;5,1
+2025-04-21;Loja Física;Centro-Oeste;Beleza;9;1865,19;16786,71;10180,36;Dia das Mães;4,4
+2025-09-21;E-commerce;Nordeste;Alimentos;8;1783,28;14266,24;9755,33;Aniversário da Loja;10,0
+2025-08-24;E-commerce;Nordeste;Alimentos;10;601,56;6015,6;4064,22;Aniversário da Loja;4,1
+2025-03-24;E-commerce;Norte;Beleza;19;1878,46;35690,74;23708,82;Dia das Mães;9,0
+2025-02-11;E-commerce;Sudeste;Alimentos;3;2296,25;6888,75;4768,01;Aniversário da Loja;6,2
+2025-04-11;App;Norte;Tecnologia;5;287,91;1439,55;831,82;Natal;9,0
+2025-01-06;App;Norte;Moda;3;596,94;1790,82;940,89;Black Friday;7,3
+2025-06-29;App;Sul;Alimentos;16;1880,65;30090,4;16121,88;Aniversário da Loja;9,4
+2025-10-09;App;Norte;Alimentos;17;700,78;11913,26;6759,28;Natal;9,6
+2025-11-16;App;Centro-Oeste;Beleza;15;1569,17;23537,55;15300,81;Black Friday;4,1
+2025-08-14;E-commerce;Centro-Oeste;Tecnologia;3;221,29;663,87;499,32;Black Friday;4,5
+2025-11-11;E-commerce;Sul;Moda;12;1141,46;13697,52;9730,55;Aniversário da Loja;5,5
+2025-12-31;E-commerce;Sudeste;Beleza;9;1852,95;16676,55;12285,82;Natal;8,0
+2025-08-17;E-commerce;Sudeste;Beleza;12;1722,55;20670,6;12511,76;Aniversário da Loja;9,3
+2025-10-16;App;Norte;Tecnologia;15;2041,38;30620,7;19027,58;Dia das Mães;6,8
+2025-05-30;App;Norte;Moda;2;2196,08;4392,16;2714,81;Black Friday;7,6
+2025-10-04;App;Norte;Tecnologia;18;1937,5;34875,0;19444,97;Aniversário da Loja;5,1
+2025-07-17;Loja Física;Sudeste;Moda;12;1685,54;20226,48;10484,7;Black Friday;8,8
+2025-03-11;E-commerce;Nordeste;Tecnologia;4;98,67;394,68;267,31;Natal;9,8
+2025-04-22;E-commerce;Centro-Oeste;Beleza;16;1346,72;21547,52;17168,31;Nenhuma;5,6
+2025-01-04;App;Nordeste;Beleza;16;113,49;1815,84;998,8;Aniversário da Loja;7,0
+2025-12-16;E-commerce;Nordeste;Eletrodomésticos;1;2024,01;2024,01;1040,35;Aniversário da Loja;4,5
+2025-11-27;E-commerce;Sudeste;Alimentos;2;815,4;1630,8;1196,78;Black Friday;7,4
+2025-11-14;App;Nordeste;Tecnologia;3;1414,82;4244,46;2443,86;Natal;7,0
+2025-12-16;Loja Física;Sul;Eletrodomésticos;17;713,02;12121,34;9077,59;Dia das Mães;4,9
+2025-04-05;Loja Física;Norte;Alimentos;1;1960,6;1960,6;1394,34;Natal;6,7
+2025-06-01;Loja Física;Sul;Tecnologia;6;2218,53;13311,18;10432,0;Aniversário da Loja;6,0
+2025-11-07;App;Centro-Oeste;Moda;15;1008,63;15129,45;9420,78;Dia das Mães;7,1
+2025-05-17;E-commerce;Norte;Alimentos;14;2160,05;30240,7;21125,88;Natal;7,5
+2025-09-04;App;Nordeste;Beleza;15;682,35;10235,25;6545,0;Nenhuma;4,1
+2025-08-31;App;Centro-Oeste;Eletrodomésticos;14;1345,96;18843,44;12986,46;Black Friday;8,6
+2025-01-31;E-commerce;Norte;Alimentos;5;2149,73;10748,65;6824,1;Natal;8,3
+2025-02-09;Loja Física;Nordeste;Alimentos;6;828,19;4969,14;2765,77;Natal;6,2
+2025-08-17;Loja Física;Sul;Beleza;17;2386,02;40562,34;26461,62;Nenhuma;4,3
+2025-02-05;App;Norte;Tecnologia;11;322,26;3544,86;2334,56;Aniversário da Loja;8,5
+2025-08-11;Loja Física;Nordeste;Moda;16;65,32;1045,12;776,71;Black Friday;9,7
+2025-01-06;App;Sul;Beleza;12;2262,26;27147,12;19563,74;Natal;5,4
+2025-11-18;App;Centro-Oeste;Moda;15;190,25;2853,75;1995,16;Dia das Mães;5,9
+2025-08-08;E-commerce;Centro-Oeste;Tecnologia;4;2479,89;9919,56;5297,21;Natal;5,1
+2025-03-16;E-commerce;Centro-Oeste;Alimentos;18;2379,46;42830,28;30674,4;Black Friday;7,5
+2025-01-04;E-commerce;Centro-Oeste;Moda;3;359,81;1079,43;701,73;Natal;4,9
+2025-12-01;App;Sudeste;Eletrodomésticos;8;1353,21;10825,68;8316,61;Nenhuma;6,1
+2025-05-14;E-commerce;Norte;Eletrodomésticos;3;478,6;1435,8;1114,13;Natal;8,2
+2025-04-28;Loja Física;Norte;Beleza;8;1081,82;8654,56;4470,49;Natal;7,4
+2025-04-04;Loja Física;Sudeste;Tecnologia;18;172,33;3101,94;2314,64;Dia das Mães;6,3
+2025-03-03;App;Nordeste;Beleza;10;575,33;5753,3;2941,72;Nenhuma;6,5
+2025-07-13;App;Nordeste;Beleza;17;920,92;15655,64;9552,3;Nenhuma;7,4
+2025-12-01;E-commerce;Centro-Oeste;Beleza;8;1107,85;8862,8;5873,29;Natal;4,0
+2025-07-22;App;Sul;Eletrodomésticos;11;2444,19;26886,09;14637,6;Dia das Mães;4,5
+2025-01-26;App;Nordeste;Eletrodomésticos;5;2023,51;10117,55;7324,04;Natal;9,3
+2025-06-22;Loja Física;Sul;Beleza;13;1848,78;24034,14;12077,31;Natal;4,5
+2025-10-27;Loja Física;Norte;Eletrodomésticos;5;1351,86;6759,3;3721,53;Black Friday;8,2
+2025-05-13;E-commerce;Sul;Tecnologia;13;2103,19;27341,47;18434,69;Black Friday;9,5
+2025-11-22;App;Norte;Beleza;6;861,52;5169,12;3692,39;Dia das Mães;5,6
+2025-04-28;App;Sudeste;Eletrodomésticos;5;1778,07;8890,35;6889,96;Aniversário da Loja;6,2
+2025-11-20;Loja Física;Sudeste;Moda;9;2484,58;22361,22;15913,34;Black Friday;7,4
+2025-10-02;App;Centro-Oeste;Beleza;16;800,28;12804,48;8982,78;Aniversário da Loja;9,3
+2025-07-31;Loja Física;Nordeste;Beleza;2;1691,56;3383,12;2091,79;Nenhuma;9,7
+2025-08-13;E-commerce;Centro-Oeste;Tecnologia;1;2113,9;2113,9;1057,76;Black Friday;8,4
+2025-01-20;Loja Física;Norte;Alimentos;8;2291,2;18329,6;9825,54;Black Friday;4,5
+2025-04-23;App;Centro-Oeste;Alimentos;19;1800,47;34208,93;22590,43;Dia das Mães;8,0
+2025-05-20;E-commerce;Sul;Tecnologia;11;723,35;7956,85;5590,0;Aniversário da Loja;6,5
+2025-02-16;Loja Física;Norte;Tecnologia;12;829,18;9950,16;6221,18;Black Friday;6,8
+2025-01-01;Loja Física;Sudeste;Tecnologia;12;71,48;857,76;616,9;Black Friday;4,3
+2025-03-31;E-commerce;Nordeste;Alimentos;7;1907,0;13349,0;8764,4;Dia das Mães;5,1
+2025-05-22;E-commerce;Norte;Tecnologia;13;125,99;1637,87;855,38;Dia das Mães;8,7
+2025-11-16;Loja Física;Norte;Eletrodomésticos;8;2164,34;17314,72;9654,77;Aniversário da Loja;6,7
+2025-02-07;App;Sul;Beleza;9;314,28;2828,52;2127,05;Nenhuma;5,8
+2025-10-20;Loja Física;Nordeste;Beleza;7;446,25;3123,75;2241,21;Nenhuma;6,3
+2025-05-19;E-commerce;Sudeste;Moda;15;1201,79;18026,85;13852,35;Natal;9,1
+2025-12-22;Loja Física;Norte;Moda;2;1849,94;3699,88;1980,42;Black Friday;8,5
+2025-11-29;E-commerce;Norte;Beleza;12;364,73;4376,76;3488,57;Aniversário da Loja;5,6
