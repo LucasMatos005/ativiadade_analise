@@ -1,23 +1,5 @@
 """
-================================================================================
-ANÁLISE EXPLORATÓRIA DE DADOS (EDA)
-Censo IBGE 2022 - Estado de São Paulo
-================================================================================
 
-OBJETIVO:
-Utilizar técnicas de EDA para analisar a base de dados do Censo 2022 e 
-identificar oportunidades de melhoria para que a base fique íntegra para 
-seguir para modelagem e análise.
-
-DATASET:
-- Ano: 2022
-- Abrangência: Estado de São Paulo e seus municípios
-- Variáveis:
-  * Ano
-  * Unidade da Federação e Município
-  * Domicílios particulares permanentes ocupados
-  * Moradores em domicílios particulares permanentes ocupados
-  * Média de moradores em domicílios particulares permanentes ocupados
 
 TÉCNICAS DE EDA APLICADAS:
 1. Análise de Estrutura e Tipos
@@ -27,9 +9,6 @@ TÉCNICAS DE EDA APLICADAS:
 5. Análise de Correlação
 6. Análise de Valores Ausentes
 
-Prof.: Marcelo Rosim
-Alunos: [PREENCHER]
-Data: 18/11/2025
 ================================================================================
 """
 
